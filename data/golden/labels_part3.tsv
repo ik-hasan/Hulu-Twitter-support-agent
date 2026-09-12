@@ -1,0 +1,58 @@
+112	ads_complaint	1	account_bound	ads appearing on a No-Ads plan; needs the plan checked, not an ad-blocker answer
+113	device_or_feature_feedback	0	none	touch-screen and single joy-con support request
+114	device_or_feature_feedback	1	self_service_exhausted	the documented autoplay path does not exist on their Roku build
+115	content_availability	0	none	disappointed that Hell's Kitchen was removed
+116	content_availability	0	none	new episodes of The Long Road Home not appearing
+117	playback_error	0	none	artwork showing as question marks; only one standard step tried so far
+118	device_or_feature_feedback	0	none	feature request for holiday auto-play playlists
+119	unclear_request	0	none	asks for help with Live TV without saying what is wrong
+120	playback_error	1	self_service_exhausted	CBS buffering recurring after Hulu said the known issue was resolved
+121	ads_complaint	0	none	too little ad variety, same clip repeatedly
+122	praise_or_chatter	0	none	"im a happy camper"
+123	playback_error	0	none	constant buffering on a $50/mo plan; value complaint, no steps tried
+124	billing_charge	1	account_bound	HBO add-on proration dispute, already part-resolved by chat
+125	playback_error	0	none	live game rewinding ten minutes
+126	ads_complaint	0	none	dislikes a specific Cyber Monday ad
+127	playback_error	0	none	app will not load after the update
+128	device_or_feature_feedback	0	none	screen sizing on a 4K TV via Roku
+129	content_availability	0	none	asks for All In The Family / The Jeffersons; row is a promo tweet CONCATENATED with the request
+130	account_access	0	none	account page will not load though streaming works; generic browser fix applies first
+131	account_access	1	account_bound	PS4 will not log in even with an activation code
+132	unclear_request	0	none	"I honestly hate hulu" - no topic, no symptom
+133	playback_error	0	none	Samsung TV app cycling and not loading
+134	playback_error	1	churn_risk	buffering plus "cancelling as soon as this game is over"
+135	live_tv_channels	0	none	SNF not appearing as available in San Antonio; next step is asking for the zip
+136	unclear_request	0	none	"Can get on there please?" - ANONYMISATION DELETED the show name
+137	billing_charge	1	account_bound	still charged after cancelling on 6/25, wants a refund
+138	content_availability	0	none	UK viewer; Hulu is US-only
+139	live_tv_channels	1	self_service_exhausted	regional ESPN message, third major event missed
+140	account_access	1	account_bound	cannot remember which email the billed account uses
+141	live_tv_channels	0	none	channel lineup addition request
+142	account_access	0	none	streaming from Kuwait; US-only answer is informational
+143	subscription_change	1	churn_risk	already cancelled and moved to a competitor
+144	unclear_request	0	none	"I have a question, can you DM me?"
+145	account_access	1	account_bound	home-network validation failing while genuinely on the home network
+146	account_access	1	account_bound	two accounts locked out and reset emails never arrive
+147	device_or_feature_feedback	0	none	iPad touch targets cause accidental fast-forward
+148	playback_error	1	self_service_exhausted	errors 2(-998) and 5005 across Android and Chromecast, link did not help
+149	playback_error	1	churn_risk	CBS will not stream, other channels fine, "getting ready to cancel"
+150	content_availability	0	none	subs-only, no dub for One Punch Man
+151	device_or_feature_feedback	0	none	new interface disliked
+152	praise_or_chatter	0	none	reports ESPN working again
+153	playback_error	1	churn_risk	black screen for 3 days, "any suggestions before I cancel"
+154	account_access	1	account_bound	cannot log in, site constantly reloading
+155	playback_error	0	none	ads load then the show stalls on MacBook Pro
+156	device_or_feature_feedback	1	self_service_exhausted	same PS4 bug reported for months across prior contacts
+157	playback_error	1	churn_risk	buffering not caused by their internet, "seriously considering canceling"
+158	subscription_change	1	churn_risk	"I'll be canceling my sub in the morning"
+159	device_or_feature_feedback	0	none	thin serif subtitle font unreadable; design regression, not absence of the feature
+160	account_access	1	account_bound	show reappears in watchlist and episodes appear watched after a password change - possible unauthorised access
+161	subscription_change	1	account_bound	cannot add the Showtime add-on for 2 days, iTunes billing involved
+162	device_or_feature_feedback	0	none	volume change triggers the pause overlay on Roku
+163	device_or_feature_feedback	1	vulnerable_or_safety	VoiceOver accessibility still broken after the 9/21 update
+164	playback_error	0	none	audio ahead of video for a new subscriber
+165	unclear_request	0	none	bare link, "my experience with live TV in a nutshell"
+166	account_access	0	none	confused by the home-network requirement; policy explanation applies
+167	playback_error	1	self_service_exhausted	the link Hulu supplied leads to a blank page
+168	device_or_feature_feedback	1	churn_risk	live events start from the beginning; cancelling for YouTube TV
+169	device_or_feature_feedback	0	none	new design hard to navigate
