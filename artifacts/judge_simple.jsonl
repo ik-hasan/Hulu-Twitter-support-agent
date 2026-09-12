@@ -1,0 +1,220 @@
+{"grounded": 1, "helpful": 2, "voice": 2, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "055251e150d35e95d82b12f566bbbff6:10", "variant": "simple"}
+{"grounded": 1, "helpful": 0, "voice": 1, "safe": 1, "total": 3, "send": false, "note": "generic deflection or asked for info already given", "judge": "checklist", "case_id": "10a31ee22071bb5b71036cab41fb76e8:4", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "2128569e0eaf7276776a1370bf0a0ee9:8", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "25eb4b025e53cc2290215323bd794c3e:4", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "36f93f30e7a1f95cbc46811f0e6f933d:2", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "49f5c88cb84d7d8823a27a1044828374:2", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 2, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "50d394faab0ecf046e662f54caca4f76:4", "variant": "simple"}
+{"grounded": 0, "helpful": 1, "voice": 1, "safe": 2, "total": 4, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "5a734ef11a76896eb7cc24b621308df9:4", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "61f371ea48cbe13d0f4da839a282456e:2", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 2, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "623f4b1e40bb5a22070446fad5ae07aa:4", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "67943a90363714c4b00cd0220740ffd3:4", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "80fb7b0ca9b283d5026134fc64d7afd7:4", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "89c2c20a964f9f2f2e3d14da3fddc7fd:2", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "94e007b61012fa2ed4d41f1f39b8a291:4", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "9aeee51b884d6e518f111e09f95b251c:10", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "9febb7c84c2568ac1824323fee61eea8:2", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "acb3a881c7ce9abcae0ce8c99c86a906:4", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "b44777b757d7a054582b2ec5c928743b:4", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "d40fee42fda89361254735ef6281eaa3:18", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "d4c06c3911385364521c7a1d780b06bb:6", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "00215463c33cefff53b0d133fd472417:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "02dbab8dd0c4f34b2ccd58be16b0e4c8:2", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 1, "total": 7, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "06c1fc8219eecc25eaac0b854a904315:2", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "0b4285f273e8b3efd961c116f26f3b28:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 1, "total": 7, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "0bcbe933f67b135a1e54e198aa332aef:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "0e683fbc04c65b874164808a05ac422f:2", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "0f95f750d6034ae4949977a5292d2313:2", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 2, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "120ff26d619570858e78200ba9c044b7:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "14a80e828bab774818037d8c6ee003a8:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "15e81e9c22eb996b1370895be8c270ef:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "16a4cb713403abc943ecab6597cd9e95:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "1704dc723a4856b2269bfad14c833165:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "177d60ff5da87e2ba0c4a4deee777a82:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "183c4540819c1385e1676563cf198564:0", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "1cf517b1cecebfe0b9616c81dca23864:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "1d14560e6ac9d214f2ed5374c2d44782:2", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "2055826c832acc823f9dc72ffe70d802:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "2063e0617d32f4eb1a34286d4eaec45e:2", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "25e0a57d380cae24a7b509ad2e9c2054:4", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "262089dd158caaa706439687373fe226:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "2717cb30f30764c3beca6a505ed4fe8e:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "295226b63c72dda2f21ba5b685b793f0:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "2b1c07f0a7063ead955f5c4c85345d1b:2", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "2c6a3692f23e80ad31bb52305e9e3ad6:0", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "2ff2f869fa05d2a0b0bc52a7f87dbb19:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "30355244db0f7df8507cdd64a51b22a3:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "352a701ffd8899129fed7a09a04afd5c:2", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "38a018b76b388cf040a2f93421ed252b:4", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "38ab41badcbd8ee5b9eb6a323c284643:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "395e737e8c4423d0ffa7d871c35b11b5:4", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "3a457c2a89970f2bc961e1a5022a9d2d:4", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "3cce03663226a743e22d4565b1a4a2e0:2", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "4255854382ce310690715dfb0a6e1add:2", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 1, "total": 7, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "4446ade2f3cf16b92abb8afa4cce9c41:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "46bb1426bd6282925b421219c2d5d5ca:0", "variant": "simple"}
+{"grounded": 0, "helpful": 1, "voice": 2, "safe": 2, "total": 5, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "4727ab6a5d9d4e403e80e89174e104dc:2", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "4a60d9234f01b123f38f99d837527434:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "4b9cf6f53c2eb3e0f4a03a7311f899be:2", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "4c15d981c340eab4091059a9f4decd1c:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "505f8218012c66fe3a6e3d5d12bb52b4:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "52d1670895ac02532d96513103bded91:0", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "530f323fff45dcce0e6eb7c94228e14e:6", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "54a68d303d5c99cf7838914c6ea9211b:2", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "581a1ebd4b9c9aafcdba9131842147a6:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "591aaeebd87e4e29833d8bbf0602738d:2", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "5a4f7a5d22f2c4d52b3684cb842f6884:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "5c3e4690878a40893d76e2a14b56490a:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "5c55124f7525574c6c41fa655e5bab33:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "5ee9f55e6a585db2668c5cae87cc19bb:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "6043c789402a3880ab2deb78328fd92b:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 1, "total": 5, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "61dae4ffffefae9d3701da5b2e1e21e3:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "66278c6953b252aaaf0c7c7f591401a8:6", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "6718ba36f80999ac3f79005d1b744f53:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "67c01a1af06c9268a4f03594b99a5058:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "689b219d7956e9f13e0afad35f9bdf16:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "691d0a1e6727e7eb54933e18e8800a83:2", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "6d2529f76fca01a4e019d3c5aa7584e0:2", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "6f1b4f305ee2be468c0bdb16793535d0:4", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "74437c2687e19a68c933eb367ede2083:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "747e7e709c817a7e0c48b7f593be77fe:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "7affc0c93ff0f3a2a1925fad71ac2229:0", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "812840bbfe9a73bc35bca3d6536dec7c:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 1, "total": 5, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "8204de6a2092e7d7ce9bf9f45b40af31:0", "variant": "simple"}
+{"grounded": 0, "helpful": 1, "voice": 1, "safe": 2, "total": 4, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "82621b75a32e46a5ba50c156654b2d6c:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "82e7412ae30e1b4360242d5b0a74c8cc:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "83771680899e821c20d6fb2657991869:6", "variant": "simple"}
+{"grounded": 0, "helpful": 1, "voice": 1, "safe": 1, "total": 3, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "854d648dc6e8223c09d9959a73c6b141:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "8995391bebb135f73539a0fdfe7f1884:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "8baa34a513aa50a1417aea64e87a6d49:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "8c9cf49bae90a9d50c07240f9347330d:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "8e35c9238630b8d3a19b64a4a9c52332:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 1, "total": 7, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "8ece19f51f4ed14692fedcd55263cfbd:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "8ecfc2511c9117e4efcf706dd713b9dd:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "8f7e14fb5333708fc6e930d0d9bb8fa8:2", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "92d59db05dac3e1b1bfa3364d7f22f70:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "947648c9faf08223d11b56acc808c62f:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "95c67c8e0a4695ac556ed528473bc95e:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 1, "total": 6, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "990b66dddd83e092e137a074218cd3e6:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "9b94ed295a0c16198fbfd996630d42a3:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "9ee92b50b34fa15609496dbdc7a85489:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "9f017aa788b1a1813df9958bc58718ba:4", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "a14246266d25bfb2b4a77f1bdbf2b586:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "a574f3caeb60484a310b89294a1a8141:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "a94e28e9f1616c944a1d1451692c2281:2", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "ad1176bc927f407f4491e09cc57776d3:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "b5318ccf0e3144e51e4ea9f4e8def373:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "b56b4cebe3500bdc284a7cdf9ca64be7:6", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "b6e760d28fc8cfb140f55567d876bd0c:0", "variant": "simple"}
+{"grounded": 0, "helpful": 1, "voice": 1, "safe": 2, "total": 4, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "bb7a346ac5fc56a81ce95748d139e7e7:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "bb96f19712e4e1f3fe50be58eada2c43:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "bbd5f6c8be4178ecdf6b021d3a46f203:2", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "bd9354ad99503241236f6d3af53f65cf:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "be13bad64a2ad5a4f66edea1bb881c46:2", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "c09c18535cf1500784d362511609a00d:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 1, "total": 4, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "c854429d1d0d250eb331801d506aa0fb:2", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "c8b7689e70dfcaaf9708829704528f76:4", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "c9db4c09d7b66832f243bce411807928:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "cb8817a683a7c1f723df16e4bdca710c:0", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "d0254de1d19f7ec59a8af7f4fb22131e:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "d2302d6ca020a4145858845c3e32ead1:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "d35d6a64a7f224bc36ef7ddc1ee0cb1e:2", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "d459762f28e1855d40e665795c5a3e86:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "d7e163fe2292d38324e8006ab751aa49:6", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "d92de19e76927967f3533c46a24d6a67:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 1, "total": 6, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "d9c4a81666096bbc84172cd6307786f2:2", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "da14222836ad5a9f01c0b4d2523c5470:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "dbe8d2e1ce56258e1cfbc32e690923cc:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "deae9a38efdc244e839d8ee68cf03570:0", "variant": "simple"}
+{"grounded": 2, "helpful": 0, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "generic deflection or asked for info already given", "judge": "checklist", "case_id": "df2712bec97fc658c99c63849a4918ee:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "e0ade372026fb01d8696cd4568c0cbb3:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "e0ba80238c03b8a499beaa65a5d2d433:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "e265d5c4af39a9d3f4c4e4c573761bf9:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "e410db3653037d3f27e00ccba335a433:0", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "e508fbdb2f0765871bbd3e03b8cff0d0:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 1, "total": 7, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "e6ee36a863c86a914ea40ec3ecde6a8d:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "f3f98f4054bebdc1aa5d05389243175b:2", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "f408be6154d0769f149bcc102f40d7bb:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "f42193fa2205e7cb3658c6089e8dade8:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "f7472a5181a8a9342a0fd2a5e9624cbc:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "ff517ea017f851413607f58978faa63e:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 2, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "00d94dd6027ca595bdb3b8fdfddba28e:4", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "03694283be24ebc5de31eec9be5e560a:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 2, "safe": 1, "total": 6, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "03fda59580c0b076a094b62139d3659f:2", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 1, "total": 5, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "08b5fa3494cd7b155fe66f48801c6890:2", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "0bb297d24595932dc61a945db43d4f7c:0", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "0ccb39826d03ca30d7f1d29f3bf672d7:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "0d5d3a7f5a05aed230af8b369a2ea241:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "0e8f28045e30181e5082642a5e77305e:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "0f0826565e597ec545bd79ef99c50b28:2", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "1379ce9e46d01f5d56d96eeb558c4ba3:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "156f9a2a7c0cc7dde5eed1ee20d1a004:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "1768f646446e30b11316b19c814cbde9:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "21b1ba8cfeb511ba2cb1fc4046a87822:2", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 1, "total": 7, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "236c7565929f91886845721a9fdfe888:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 1, "total": 6, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "283da67b70257a0f6126670f33cca12a:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "2a86fa24687d8b812580ec4e3472316d:2", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 1, "safe": 1, "total": 4, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "2bcb2575417ab4b05fc93da4e5168d94:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 2, "safe": 1, "total": 6, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "2ef3023fded1fdb0b66e50be3953dd0c:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 1, "total": 5, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "2ff845d192225ac4d0367028a720e2c9:4", "variant": "simple"}
+{"grounded": 0, "helpful": 1, "voice": 1, "safe": 2, "total": 4, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "33f1b2ba71e53a8edec6322cc5499f1b:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "3428eb47355bbfd74a38fc8cc3a7f1ab:2", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 1, "total": 5, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "36223f6107bf24ea122d54eb9406158b:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "3633902b4040e293accc7b293e7cfcad:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 1, "total": 5, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "3f1ea81202937468025cd910a8d6e9ed:1", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "41bca94109fae9d7f78811c4bfad6e99:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "424c4b388f01800b1d3219c6130834ce:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 1, "total": 6, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "43e63298ff802b6b0f75286880727353:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "45620b382eaf288387acbc7c055a88fe:2", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 2, "safe": 1, "total": 6, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "4a5246c5684a4644129ba0a35aa32afa:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 1, "total": 6, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "4d109d78a99484b7c5790e8ffc383c8b:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "4e5fd728cc966faf57189bd845be4239:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "518e8363cbf8ec0da63f510f39ed0082:0", "variant": "simple"}
+{"grounded": 0, "helpful": 1, "voice": 1, "safe": 1, "total": 3, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "52a7d8e3bfc3f8d58b51082d8d4d8c3e:4", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "5aa94c7a0641a938e4e5c5c0f0c112bc:2", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "5bf82641ca738da2e77c0d5dd8168bb9:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "6133ab2f93e8f0c0f508ae8c6dff4476:0", "variant": "simple"}
+{"grounded": 0, "helpful": 1, "voice": 1, "safe": 2, "total": 4, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "6549d9f5a9708b319680e4ce79ff37f4:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "660688f3e38637e07e8dcf1fa62815f6:8", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 2, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "669e01e54d97bfe05a7d2cac358d1a07:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "6825f39ad4398df64cc3a7f14bda014d:0", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "6c8623555aab7eb8023b97ceddcf4fd7:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "6e7b8e86765e4e9555b0b0b7c5ba2cf1:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "736e548c1b0a1ff8bc8a3c2257c70ddf:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 1, "total": 5, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "759a322afab25b1c2809c215312eb874:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "76d9e5cfce97bd476d1f711035767d4c:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 1, "total": 7, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "784bbe9eb995af2f212c2d31ed41f461:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "7fe83a348825d63f23116bdafa1cfd55:2", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "808f48ff0a413346671a4cfd4939021e:0", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 1, "safe": 1, "total": 4, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "85a0a65869c728e1f99c442065944b60:2", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "89991d36c0c039cad2589b946eec8ad6:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "8b5e6cb7b05aebaa969c90252fffcf38:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "9247b42322549ed6403a3a4fa742b013:6", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 1, "total": 5, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "95a0686b2cd65a0d12a9cdf6ee9001ca:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "9752de9a866b321139c13696a1dc3726:2", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 2, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "989cba0534d3381cbd89037db24ef58d:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "9ca0f37f0983ff17ebbf5a0cd2e9ab19:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 1, "total": 7, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "a425ef284a475a4fd9d21c7be17700c3:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "a4320c8e3dc927203e2b1b0855de1cd9:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "aa360f3908c192133ed809dbe0e2ec72:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "aefd6bd993f5d974750c21b6e0034b82:2", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "aff85ee1b4baeae69fe8b002d6984e2a:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "bb4b53e47f953f2a6a9e629f288ca053:4", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "bcce338c51eb1a16e8a9daf14e4e67a9:0", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 2, "safe": 1, "total": 6, "send": false, "note": "safety/routing mismatch", "judge": "checklist", "case_id": "c2b2d5ebeb4f61691c942f92297bc776:0", "variant": "simple"}
+{"grounded": 2, "helpful": 0, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "names a device the customer did not", "judge": "checklist", "case_id": "c7220a82a012e51c966fcc0ef5b489d3:2", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "ccad08b7c8a2a291c32ab2833c0441b2:0", "variant": "simple"}
+{"grounded": 0, "helpful": 1, "voice": 2, "safe": 2, "total": 5, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "d637f438702ae94ecc970d9601633598:2", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "d8b14c948c5ed6750499c48c5c36b3e9:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "borderline", "judge": "checklist", "case_id": "d96f47bf8d2c2dbaceb203e1420f3733:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "dafeb31c9c8d45b01c01c10424ea6ddb:0", "variant": "simple"}
+{"grounded": 0, "helpful": 2, "voice": 1, "safe": 2, "total": 5, "send": false, "note": "invented a url the brand history does not support", "judge": "checklist", "case_id": "df588041940ddfd83cae32a7e1751a4a:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "total": 8, "send": true, "note": "fine", "judge": "checklist", "case_id": "e453c887a3b22d64392efdf5d651ab0e:4", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "e7056190076704741feeab26eae88e06:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "e9500fe3ba56e8474e1c77e14e9628dd:0", "variant": "simple"}
+{"grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "total": 7, "send": true, "note": "fine", "judge": "checklist", "case_id": "e9db591cc36263a02c4849487685df6c:0", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "ec770e562783418ef75e2e99916e6ce0:2", "variant": "simple"}
+{"grounded": 1, "helpful": 2, "voice": 1, "safe": 2, "total": 6, "send": true, "note": "fine", "judge": "checklist", "case_id": "ef0b5b9c8be814ebe6d5a21ba33bee41:0", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "total": 7, "send": false, "note": "borderline", "judge": "checklist", "case_id": "f56af9afe05f76c6d6aa928fd0465da5:2", "variant": "simple"}
+{"grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "f8f2b1269c8f32c5824c1c84a0496507:2", "variant": "simple"}
+{"grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "total": 6, "send": false, "note": "borderline", "judge": "checklist", "case_id": "fde581cde21ebf7eed6b784462fe9ba0:4", "variant": "simple"}
