@@ -1,0 +1,55 @@
+0	unclear_request	1	self_service_exhausted	frustrated non-answer at turn 10; nothing actionable in the message itself
+1	playback_error	1	self_service_exhausted	restarted Xbox multiple times, still recurring on live TV only
+2	ads_complaint	1	account_bound	ad-targeting complaint; which ads a viewer gets is account-specific
+3	playback_error	1	self_service_exhausted	"not helping here, continues to crash" after a suggested fix
+4	live_tv_channels	0	none	CBS regional blackout; answerable with a carriage/rights explanation
+5	playback_error	1	self_service_exhausted	tried all suggestions and live chat was down
+6	playback_error	1	self_service_exhausted	watch-progress not saving; TAXONOMY GAP - not really playback
+7	playback_error	0	none	"Phone or laptop" only makes sense with history; dorm network, first-line steps still valid
+8	playback_error	1	self_service_exhausted	ABC-only errors recurring after Hulu said it was fixed
+9	praise_or_chatter	0	none	thanks after a caption sync fix
+10	content_availability	1	self_service_exhausted	some shows still not updating after a known investigation was opened
+11	billing_charge	1	account_bound	Spotify+Hulu bundle discount eligibility; CROSS-BRAND CONTAMINATION in thread
+12	praise_or_chatter	0	none	thanks for the info
+13	content_availability	0	none	asking release time for AMAs on demand
+14	playback_error	1	churn_risk	root issue is playback but there is a concrete switch-to-YouTubeTV threat
+15	device_or_feature_feedback	0	none	how-to for full screen on iPhone X
+16	playback_error	0	none	self-resolved, only needs an acknowledgement
+17	playback_error	1	self_service_exhausted	tried chat, tried LAN vs wifi, asking about ports
+18	live_tv_channels	0	none	carriage request for NFL/MLB Network; TOPIC SWITCH at turn 18
+19	praise_or_chatter	0	none	confirms it is back up
+20	live_tv_channels	0	none	will the Grey Cup be on Hulu Live
+21	praise_or_chatter	0	none	listing favourite shows in a recommendations thread, not support
+22	device_or_feature_feedback	1	self_service_exhausted	Chromecast icon gone; reinstalled already, works on other apps
+23	playback_error	0	none	LG webOS buffering with good speeds; first-line device troubleshooting
+24	account_access	1	account_bound	cannot log back in on a paid account
+25	playback_error	0	none	error 0326 on Safari, still narrowing down
+26	playback_error	0	none	live sports freezing; complaint about value but no concrete churn threat
+27	content_availability	1	no_precedent	why is Sailor Moon under LGBTQ Programming - categorisation, real brand-voice risk
+28	device_or_feature_feedback	0	none	"up next" recommending the show just watched
+29	content_availability	0	none	Broad City season 4 missing
+30	playback_error	1	self_service_exhausted	already rebooted modem, router and every device
+31	content_availability	0	none	show removed; "why am I still paying" is grumbling, not a cancel intent
+32	live_tv_channels	0	none	cannot watch SEC Championship; named event, answer with carriage info
+33	playback_error	0	none	"service crappy today" - no symptom named, bot should ask
+34	content_availability	0	none	where is last night's Smackdown episode
+35	playback_error	1	self_service_exhausted	TBS feed broken again after Hulu said it was fixed
+36	playback_error	0	none	World Series skipping back / stuck in ads; first-line steps
+37	playback_error	0	none	repeated loading failures on AppleTV/FireTV; detailed but no steps tried yet
+38	playback_error	0	none	asking why clearing cache helped; explanatory follow-up
+39	content_availability	0	none	Rick and Morty season 3 timing
+40	playback_error	0	none	Hulu will not load on Samsung TV
+41	billing_charge	1	account_bound	charged for an add-on they cancelled, wants a refund
+42	praise_or_chatter	0	none	"I finally got help thanks"
+43	device_or_feature_feedback	0	none	app quality venting with a named target (Xbox)
+44	live_tv_channels	0	none	MSG network not carried
+45	ads_complaint	0	none	too many commercials
+46	playback_error	0	none	episodes cut off and auto-advance on Samsung TV
+47	praise_or_chatter	0	none	self-resolved the duplicate app, says thanks
+48	unclear_request	1	self_service_exhausted	meta-complaint about reachability; never states the actual issue
+49	subscription_change	1	account_bound	whether Spotify+Hulu promo conflicts with an existing Sprint add-on
+50	billing_charge	1	account_bound	still charged $40 after downgrading in September, wants a refund
+51	content_availability	0	none	catalogue request for several 90s shows
+52	content_availability	0	none	wants same-day on-demand rather than next-day
+53	playback_error	1	self_service_exhausted	loading error on Xbox for 24h, restarted everything twice
+54	account_access	1	account_bound	password reset email never arrives
