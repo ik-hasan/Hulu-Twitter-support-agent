@@ -1,0 +1,57 @@
+55	account_access	0	none	home-network check-in policy for mobile; explain policy and log the feedback
+56	playback_error	1	self_service_exhausted	reinstalled app, tried LTE and wifi, other apps fine
+57	praise_or_chatter	0	none	delighted reply after the fix worked
+58	content_availability	0	none	channel carried but specific shows not findable
+59	ads_complaint	1	unsupported_language	Spanish-language feature request about browsing during ads
+60	content_availability	0	none	catalogue request for new Rick and Morty episodes
+61	content_availability	1	self_service_exhausted	week-long new-episode flagging bug, still partially broken
+62	praise_or_chatter	0	none	reports it is working again
+63	live_tv_channels	0	none	DVR/live recording cut off at the scheduled end time during overrun
+64	content_availability	0	none	asks Hulu to request a show and a network
+65	playback_error	1	self_service_exhausted	30 min on hold, out for 2 days, website did not help
+66	playback_error	0	none	live streaming issues on fast internet; first-line steps
+67	ads_complaint	1	churn_risk	ads on a No-Ads plan plus an explicit "deleting in 5 min" threat
+68	playback_error	0	none	new episode will not load
+69	device_or_feature_feedback	0	none	app intro volume too loud
+70	account_access	0	none	NBC Sports app sign-in with Hulu credentials; answerable as a plan-capability question
+71	playback_error	1	self_service_exhausted	local NBC affiliate feed failing (carried, not missing) two weeks running, Roku already power-cycled
+72	content_availability	0	none	Rick and Morty season 3 timing
+73	unclear_request	0	none	pure venting about communication, no identifiable problem
+74	unclear_request	0	none	"been 2 days, what's the deal" plus a screenshot, no symptom stated
+75	playback_error	1	self_service_exhausted	watched-episode marking broken into week 2; TAXONOMY GAP
+76	praise_or_chatter	0	none	message itself is an acknowledgement, though the thread is about Switch audio
+77	playback_error	1	self_service_exhausted	tried the steps, still failing and only on CW content
+78	unclear_request	0	none	asks for an email support address; TAXONOMY GAP - contact-channel question
+79	content_availability	0	none	Last Man Standing streaming date
+80	content_availability	0	none	next-day vs same-hour availability for HTGAWM
+81	device_or_feature_feedback	1	vulnerable_or_safety	closed captioning absent; accessibility policy complaint, not a single asset bug
+82	playback_error	1	self_service_exhausted	lineup will not load, 1hr+ phone wait, "50th time this week"
+83	playback_error	0	none	ESPN stream quality poor on most games
+84	live_tv_channels	0	none	NFL Network carriage request
+85	billing_charge	1	account_bound	$39.99 charge during a supposed free trial; chat also failing
+86	subscription_change	1	churn_risk	asking how to cancel Live TV because BTN games are unavailable
+87	billing_charge	1	account_bound	unexpected $4 charge after a same-day plan switch
+88	playback_error	0	none	error97 on Xbox 360; answer is device support plus troubleshooting
+89	content_availability	0	none	more seasons of Mr. D
+90	playback_error	0	none	Live TV problems on every device since last night; possible outage
+91	playback_error	1	churn_risk	cannot add to queue, plus "may have to switch to Netflix or Vudu"
+92	playback_error	0	none	subtitle sync 5 min off on one episode; specific fixable asset bug
+93	praise_or_chatter	0	none	will try the suggestion, says thanks
+94	playback_error	0	none	both Live TV and main app failing
+95	device_or_feature_feedback	0	none	how to change subtitle colour on Roku
+96	playback_error	0	none	one live game choppy, other channels fine
+97	subscription_change	1	churn_risk	"very likely I will be cancelling", value complaint
+98	playback_error	0	none	MNF buffering on ESPN
+99	device_or_feature_feedback	0	none	feature request for Rotten Tomatoes ratings
+100	praise_or_chatter	0	none	accepts the browser answer and thanks them
+101	playback_error	0	none	Live TV buffers and skips on every device
+102	playback_error	0	none	Saints/Rams game buffering and jumping to the start
+103	playback_error	0	none	slow loading limited to one series, will try the modem
+104	playback_error	0	none	playback failing on almost every episode all weekend
+105	playback_error	0	none	sarcastic World Series jab with a YouTube TV nod; NOT escalated - churn signal is implicit, not a concrete threat
+106	playback_error	1	self_service_exhausted	watch history re-prompting seen episodes, software already updated
+107	content_availability	0	none	artwork for a new Pokemon season but no episodes
+108	content_availability	0	none	will Hulu carry a specific documentary series
+109	device_or_feature_feedback	0	none	which Chromecast generations are supported
+110	playback_error	1	self_service_exhausted	channel down for hours then unwatchable; recurrence after support already engaged
+111	playback_error	1	self_service_exhausted	service "down for a week" for this subscriber
