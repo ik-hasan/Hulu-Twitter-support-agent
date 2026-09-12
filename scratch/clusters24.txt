@@ -1,0 +1,125 @@
+﻿clustering 5943 opener messages
+
+==============================================================================
+k = 24
+==============================================================================
+
+[c2] n=1492 (25.1%)  ads, going, episodes, can't, help, available, i'm, it's, work, commercial, phone, trying
+     . why can't you be like ... without ads?
+     . I'm going to unsubscribe if you don't chill the fuck out with the prescription drug ads...it's out of hand guys
+     . Why do you charge me to use your services, if you're just going to have ads anyway? I'm paying for no ads, not minimal ads.
+
+[c9] n=396 (6.7%)  live, streaming, channels, sports, buffering, live streaming, live sports, channel, trying, available, network, work
+     . When will Hulu Live be 60 fps?
+     . is the race on Hulu Live?
+     . can you steam hulu live on ps4?
+
+[c19] n=357 (6.0%)  app, apple, iphone, roku, ipad, smart, https, roku app, apple app, work, help, use
+     . why is your app such ≡ƒÜ« now? Why did you do this to us?
+     . One day the app on my Kindle will work as intended. One day. ≡ƒÖä
+     . your smart tv app pisses me off.
+
+[c12] n=354 (6.0%)  https, help, help https, live, getting, can't, message, i'm, tried, i've, it's, version
+     . .ΓÇª ΓÇª ΓÇª https://t.co/pI9nMEL8hQ
+     . When your is down @hulu_support https://t.co/tlnKK1FKc6
+     . what should i do? https://t.co/TL4ynlEWNh
+
+[c11] n=277 (4.7%)  season, new season, episodes, new, episodes season, available, need, season available, coming, missing, broad, broad city
+     . Does have season 17, ep. 5 of #HellsKitchen yet?
+     . When will S3 be on Hulu as well as Season 3?
+     . when will we see @174 season 4 on hulu
+
+[c23] n=256 (4.3%)  episode, new episode, new, season, season episode, https, watched, latest, night, episode https, latest episode, times
+     . why is episode 2 of the bold type not on Hulu?
+     . why do you have episode 1-4 and 6 but not episode 5 of the eleven ≡ƒÿÆ
+     . Where is The Brave episode 5 Enhanced Protection?
+
+[c18] n=242 (4.1%)  game, buffering, live, constant, constant buffering, football, issues, football game, buffering issues, https, streaming, keeps
+     . how can we watch the knick game in the Bronx
+     . if my live tv is buffering this much for the patriots game tonight... https://t.co/NiTCUiQ3ti
+     . Is would stop buffering the game.. that would be great.
+
+[c15] n=240 (4.0%)  new, episodes, new episodes, interface, new interface, roku, app, old, new app, hate, new update, update
+     . When will get new episodes of #theamazingrace @hulu_support
+     . Yo where are the new episodes of ?!
+     . . your new interface stinks. None of our norm shows alerted there were new episodes until searched and starred. Super annoying.
+
+[c3] n=223 (3.8%)  error, getting, getting error, message, error code, code, error message, trying, help, loading error, try, loading
+     . Anyone else getting a 502 error on @hulu_support #hulu #error
+     . I am getting a Hulu error There was an error on this page (500 error)
+     . IΓÇÖm getting this error drm-4-68abfb9b
+
+[c8] n=213 (3.6%)  service, customer service, customer, streaming service, streaming, live, live service, https, paying, pay, money, service sucks
+     . can I activate your service of live TV in Puerto Rico?
+     . Hey your customer service blows
+     . Hi, why is your service not yet available outside of the U.S.?
+
+[c0] n=203 (3.4%)  account, help, spotify, log, charged, cancel, can't, email, i'm, log account, login, cancelled
+     . contacted u since 10/4/17 about 3 overcharges to my account. As of 10/ 29 no credit to my account for 55.98. Want by 11/3≡ƒÿá≡ƒÿá≡ƒÿá≡ƒÿ▓
+     . I would like to get a refund for $7.99 which was charged to my account on Oct. 17th. I canceled my account
+     . Bet I'mma have my girlfriend Kiarra make an account rn https://t.co/LR7eGw5mz6
+
+[c16] n=196 (3.3%)  shows, dvr, showing, watchlist, https, app, record, new, episodes, don't, can't, good
+     . MUST BE DOWN? CANNOT WATCH ANY SHOWS.
+     . help! CanΓÇÖt get to my showsΓÿ╣∩╕Å
+     . whatΓÇÖre some good shows
+
+[c7] n=176 (3.0%)  commercials, pay, paying, commercial, getting, plan, pay commercials, seeing, shows, paying commercials, seeing commercials, don
+     . Hulu od with all these commercials.
+     . Why does hulu have commercials ≡ƒÿ¡≡ƒÿ¡≡ƒÿ¡ this is upsetting
+     . When did Hulu get all these commercials?
+
+[c22] n=161 (2.7%)  working, isn't working, isn, isn working, isn't, live, app, app working, fine, live working, hasn't, working fine
+     . Why is not working?! #FirstWorldProblems
+     . Can we get my Hulu working before #FridayNightHorror eh @hulu_support?
+     . Why is my Hulu not working ≡ƒÿ¡≡ƒÿ¡
+
+[c21] n=157 (2.6%)  fix, buffering, live, shit, app, roku, https, fix shit, screen, fix app, need fix, need
+     . Really , fix the game
+     . Hey it is really disappointing that no #ClosedCaptioning is available on @hulu_support Any fix planned?
+     . I keep getting ads for Texas lottery tickets but I live in RI, can you guys fix this?
+
+[c10] n=146 (2.5%)  need, help, need help, netflix, need new, assistance, account, good, new, live, i'm, recommendations
+     . Now I just need Hulu to get ghost ship
+     . what do I need to do to give it a whirl
+     . #LivePD hates me!!! Get it together! I need my !
+
+[c13] n=140 (2.4%)  stream, live stream, live, game, buffering, stream live, night, available, https, tonight, fix, what's
+     . Ummmm why cant I stream #GameOfThrones on ???
+     . can you guys please stream Reno 911 again ≡ƒÿ¡
+     . WhatΓÇÖs going on? I canΓÇÖt get the @801 live stream where I am
+
+[c14] n=132 (2.2%)  having, issues, having issues, trouble, having trouble, help, loading, i'm having, live, playback, buffering, i'm
+     . is Hulu having issues?
+     . we are having trouble watching fox sports north on Hulu live tv...having issues??
+     . Nope still having issues with login @hulu_support ≡ƒÿí≡ƒÿ½
+
+[c4] n=131 (2.2%)  add, add live, live, need, line, plans, hill, https, episodes, thank, season, movies
+     . can you please add the tv show scared famous and supergirl?
+     . please add moonshiners ≡ƒÿÑ
+     . add married to medicine
+
+[c1] n=98 (1.6%)  series, world series, world, live, series finale, keeps, finale, inning, game, can't, trying, going
+     . bruhh I can't watch the World Series
+     . Another day, another world series game I canΓÇÖt watch on . What am I paying for?
+     . what is up with World Series live stream?
+
+[c6] n=94 (1.6%)  able, haven't able, haven able, haven, haven't, going, live, stream, shows, app, update, chromecast
+     . Is Hulu going to develop an Alexa skill to be able to watch on the Echo Show?
+     . Will I be able to stream the #CMAAwards via Hulu?
+     . I havenΓÇÖt been able to log in on the app for a week IΓÇÖd really like to be able to watch in my phone
+
+[c20] n=88 (1.5%)  rick, rick morty, morty, season, season rick, morty season, adding, need, isn, coming, come, going
+     . Why is season 3 of Rick and Morty STILL NOT ON ≡ƒÿñ
+     . Yo where the third season of Rick & Morty at?
+     . WhereΓÇÖs season 3 of Rick & Morty??
+
+[c5] n=88 (1.5%)  free, trial, free trial, month, free month, charged, signed, signed free, account, start free, sign, start
+     . 12 ads per episode? Glad I am learning this on a free trial.
+     . how am I ineligible for the Free Live TV trial?
+     . we were offered a 30-day free trial and were still charged 5.99 when we agreed to the trial. How can we be refunded??
+
+[c17] n=83 (1.4%)  seasons, add, episodes, need, current, chicago, season, binge, y'all, recent, added, episode
+     . could one of you guys please put Columbo on ?! All seasons
+     . @hulu_support 2/2 But you carry full back seasons for seasons 1-17 of Did the license expire for that 1 season?
+     . when will you add more seasons of ghost adventures?! need more seasons!
