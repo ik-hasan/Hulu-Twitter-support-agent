@@ -1,0 +1,85 @@
+﻿clustering 5943 opener messages
+
+==============================================================================
+k = 16
+==============================================================================
+
+[c3] n=2058 (34.6%)  app, ads, shows, account, add, going, can't, episodes, i'm, available, fix, work
+     . why is your app such ≡ƒÜ« now? Why did you do this to us?
+     . trying to use my hulu app but it's trying to make me sign up for a free trial but i already have a paying account with you guys? ≡ƒñö
+     . your interactive ads kill your app on my fire stick like 90% of the time. It's annoying and I don't like it.
+
+[c4] n=519 (8.7%)  live, streaming, buffering, sports, channels, live streaming, channel, game, live sports, issues, available, stream
+     . Hey what time does your live tv show the @801 ?
+     . When will Hulu Live be 60 fps?
+     . is the race on Hulu Live?
+
+[c7] n=404 (6.8%)  https, getting, trying, live, message, app, can't, i'm, it's, going, shows, account
+     . whatΓÇÖs this? https://t.co/cFsbnzj3B4
+     . when will you put sister sister on Hulu! https://t.co/JDz4lmUj84
+     . just now https://t.co/o2nN73EZqv
+
+[c11] n=375 (6.3%)  game, buffering, stream, series, world, world series, live, constant, constant buffering, fix, football, trying
+     . how can we watch the knick game in the Bronx
+     . Another day, another world series game I canΓÇÖt watch on . What am I paying for?
+     . if you add Fresh Prince and Martin game changer/game over
+
+[c12] n=299 (5.0%)  season, new season, episodes, new, episodes season, available, need, season available, missing, coming, https, broad city
+     . Is season 2 of on yet?
+     . when will Fixer Upper season 4 be on Hulu?
+     . When will S3 be on Hulu as well as Season 3?
+
+[c14] n=291 (4.9%)  help, having, issues, having issues, trouble, having trouble, help https, account, app, https, i'm, issue
+     . Can you DM me for some help please?
+     . can I get some help please Hulu?
+     . help me out
+
+[c2] n=274 (4.6%)  episode, new episode, new, season, https, season episode, latest, night, watched, latest episode, episode https, available
+     . AGAIN, where is episode 5 of The Brave???
+     . why is episode 2 of the bold type not on Hulu?
+     . why do you have episode 1-4 and 6 but not episode 5 of the eleven ≡ƒÿÆ
+
+[c13] n=264 (4.4%)  new, episodes, new episodes, interface, new interface, app, new app, roku, shows, old, hate, it's
+     . Yo where are the new episodes of ?!
+     . When will get new episodes of #theamazingrace @hulu_support
+     . . your new interface stinks. None of our norm shows alerted there were new episodes until searched and starred. Super annoying.
+
+[c10] n=256 (4.3%)  service, customer service, customer, live, live service, streaming service, streaming, https, going, pay, paying, money
+     . can I activate your service of live TV in Puerto Rico?
+     . Hey your customer service blows
+     . please add Dolby 5.1 to the service
+
+[c15] n=230 (3.9%)  update, log, let, app, won, account, new update, can't, new, won let, log account, can't log
+     . why can't I update my account through the hulu app?
+     . how am I supposed to update my billing method if you wonΓÇÖt let me log in? https://t.co/IxN8OIOdQF
+     . what the hell is happening right now. Before the update nothing would load.. after update, app force closes and now this https://t.co/l4RDY31Avv
+
+[c0] n=229 (3.9%)  error, getting, getting error, message, error code, code, error message, trying, loading error, loading, help, try
+     . Anyone else getting a 502 error on @hulu_support #hulu #error
+     . I am getting a Hulu error There was an error on this page (500 error)
+     . IΓÇÖm getting this error drm-4-68abfb9b
+
+[c1] n=208 (3.5%)  need, need help, help, netflix, need new, account, add, need fix, shows, live, fix, good
+     . what do I need to do to give it a whirl
+     . Now I just need Hulu to get ghost ship
+     . #LivePD hates me!!! Get it together! I need my !
+
+[c9] n=188 (3.2%)  commercials, pay, commercial, paying, getting, plan, shows, pay commercials, seeing, paying commercials, live, https
+     . Hulu od with all these commercials.
+     . Why does hulu have commercials ≡ƒÿ¡≡ƒÿ¡≡ƒÿ¡ this is upsetting
+     . When did Hulu get all these commercials?
+
+[c5] n=176 (3.0%)  working, isn't working, isn, isn working, isn't, live, app, fine, app working, help, live working, working fine
+     . Why is not working?! #FirstWorldProblems
+     . This and combo is not working
+     . Can we get my Hulu working before #FridayNightHorror eh @hulu_support?
+
+[c8] n=88 (1.5%)  rick, rick morty, morty, season, season rick, morty season, adding, need, isn, coming, come, going
+     . Why is season 3 of Rick and Morty STILL NOT ON ≡ƒÿñ
+     . Yo where the third season of Rick & Morty at?
+     . WhereΓÇÖs season 3 of Rick & Morty??
+
+[c6] n=84 (1.4%)  seasons, add, episodes, need, current, season, chicago, binge, recent, y'all, added, episode
+     . could one of you guys please put Columbo on ?! All seasons
+     . @hulu_support 2/2 But you carry full back seasons for seasons 1-17 of Did the license expire for that 1 season?
+     . when will you add more seasons of ghost adventures?! need more seasons!
