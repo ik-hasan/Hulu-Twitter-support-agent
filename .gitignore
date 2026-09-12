@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Raw dumps are large and re-downloadable; everything derived from them is small
+# enough to commit so the eval can be reproduced without a download.
+data/raw/
+data/interim/
