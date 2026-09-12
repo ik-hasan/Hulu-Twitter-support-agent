@@ -1,0 +1,102 @@
+{
+  "n": 40,
+  "other": "C:\\PROJECTS\\hiver_assignment\\artifacts\\judge_system.jsonl",
+  "send_agreement": 0.325,
+  "send_kappa": 0.021739130434782705,
+  "human_send_rate": 0.3,
+  "other_send_rate": 0.975,
+  "axes": {
+    "grounded": {
+      "exact": 0.5,
+      "spearman": 0.14465290806754225,
+      "mean_human": 1.45,
+      "mean_other": 1.875
+    },
+    "helpful": {
+      "exact": 0.3,
+      "spearman": 0.3108818011257036,
+      "mean_human": 0.9,
+      "mean_other": 1.975
+    },
+    "voice": {
+      "exact": 0.6,
+      "spearman": 0.49343339587242036,
+      "mean_human": 1.65,
+      "mean_other": 1.8
+    },
+    "safe": {
+      "exact": 0.825,
+      "spearman": 0.7838649155722328,
+      "mean_human": 1.825,
+      "mean_other": 2.0
+    },
+    "total": {
+      "exact": 0.175,
+      "spearman": 0.18461538461538465,
+      "mean_human": 5.825,
+      "mean_other": 7.65
+    }
+  },
+  "disagreements": [
+    {
+      "case_id": "02dbab8dd0c4f34b2ccd58be16b0e4c8:2",
+      "human_send": false,
+      "other_send": true,
+      "human_note": "they listed favourite shows; we recited the rights disclaimer",
+      "other_note": "fine"
+    },
+    {
+      "case_id": "0e683fbc04c65b874164808a05ac422f:2",
+      "human_send": false,
+      "other_send": true,
+      "human_note": "asks for an error code they already sent (0326)",
+      "other_note": "fine"
+    },
+    {
+      "case_id": "1d14560e6ac9d214f2ed5374c2d44782:2",
+      "human_send": false,
+      "other_send": true,
+      "human_note": "TBS feed died in the 9th; we talked about licensing",
+      "other_note": "fine"
+    },
+    {
+      "case_id": "2063e0617d32f4eb1a34286d4eaec45e:2",
+      "human_send": false,
+      "other_send": true,
+      "human_note": "asks which device; they already named Apple TV and Fire TV",
+      "other_note": "fine"
+    },
+    {
+      "case_id": "21b1ba8cfeb511ba2cb1fc4046a87822:2",
+      "human_send": false,
+      "other_send": true,
+      "human_note": "ESPN is back; we asked for a zip",
+      "other_note": "fine"
+    },
+    {
+      "case_id": "38ab41badcbd8ee5b9eb6a323c284643:0",
+      "human_send": false,
+      "other_send": true,
+      "human_note": "thanks-template on a reachability complaint",
+      "other_note": "fine"
+    },
+    {
+      "case_id": "4a60d9234f01b123f38f99d837527434:0",
+      "human_send": false,
+      "other_send": true,
+      "human_note": "playback outage answered as if they asked for a show",
+      "other_note": "fine"
+    },
+    {
+      "case_id": "505f8218012c66fe3a6e3d5d12bb52b4:0",
+      "human_send": false,
+      "other_send": true,
+      "human_note": "now queues it, but the tweet is still English",
+      "other_note": "fine"
+    }
+  ],
+  "human_send_counts": {
+    "0": 28,
+    "1": 12
+  }
+}
