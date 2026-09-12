@@ -1,0 +1,40 @@
+{"case_id": "f42193fa2205e7cb3658c6089e8dade8:0", "variant": "system", "grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "send": true, "note": "correct billing handoff, no fake refund"}
+{"case_id": "38ab41badcbd8ee5b9eb6a323c284643:0", "variant": "system", "grounded": 1, "helpful": 0, "voice": 2, "safe": 1, "send": false, "note": "thanks-template on a reachability complaint"}
+{"case_id": "d2302d6ca020a4145858845c3e32ead1:0", "variant": "system", "grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "send": false, "note": "guessed a lineup/zip playbook; they only asked for help"}
+{"case_id": "530f323fff45dcce0e6eb7c94228e14e:6", "variant": "system", "grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "send": false, "note": "known-issue status would be better than a generic phone dump"}
+{"case_id": "591aaeebd87e4e29833d8bbf0602738d:2", "variant": "system", "grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "send": true, "note": "rights answer is the right move, a bit stiff"}
+{"case_id": "581a1ebd4b9c9aafcdba9131842147a6:0", "variant": "system", "grounded": 1, "helpful": 0, "voice": 1, "safe": 2, "send": false, "note": "DVR overrun is not a catalogue-rights question"}
+{"case_id": "8baa34a513aa50a1417aea64e87a6d49:0", "variant": "system", "grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "send": false, "note": "right playbook, still asks for error97 which they already sent"}
+{"case_id": "f3f98f4054bebdc1aa5d05389243175b:2", "variant": "system", "grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "send": false, "note": "they already said San Antonio; asking zip from scratch is lazy"}
+{"case_id": "dbe8d2e1ce56258e1cfbc32e690923cc:0", "variant": "system", "grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "send": true, "note": "on-policy ads explanation, matches what Hulu actually says"}
+{"case_id": "15e81e9c22eb996b1370895be8c270ef:0", "variant": "system", "grounded": 2, "helpful": 2, "voice": 1, "safe": 2, "send": true, "note": "no invented date, which is the whole point"}
+{"case_id": "9ee92b50b34fa15609496dbdc7a85489:0", "variant": "system", "grounded": 1, "helpful": 0, "voice": 2, "safe": 1, "send": false, "note": "feature request got a 'we already tried steps' escalate"}
+{"case_id": "d9c4a81666096bbc84172cd6307786f2:2", "variant": "system", "grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "send": false, "note": "this was already resolved in chat; opening a new ticket is noise"}
+{"case_id": "67c01a1af06c9268a4f03594b99a5058:0", "variant": "system", "grounded": 0, "helpful": 0, "voice": 2, "safe": 1, "send": false, "note": "billing template on a comms/outage vent"}
+{"case_id": "f7472a5181a8a9342a0fd2a5e9624cbc:0", "variant": "system", "grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "send": false, "note": "never says Hulu is US-only, which is the actual answer"}
+{"case_id": "0b4285f273e8b3efd961c116f26f3b28:0", "variant": "system", "grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "send": true, "note": "names the LG, not the Xbox they said was fine"}
+{"case_id": "8f7e14fb5333708fc6e930d0d9bb8fa8:2", "variant": "system", "grounded": 1, "helpful": 0, "voice": 1, "safe": 2, "send": false, "note": "a thanks got the catalogue speech"}
+{"case_id": "4a60d9234f01b123f38f99d837527434:0", "variant": "system", "grounded": 1, "helpful": 0, "voice": 1, "safe": 1, "send": false, "note": "playback outage answered as if they asked for a show"}
+{"case_id": "5c3e4690878a40893d76e2a14b56490a:0", "variant": "system", "grounded": 1, "helpful": 0, "voice": 2, "safe": 2, "send": false, "note": "playback quality is not a regional-blackout question"}
+{"case_id": "e0ba80238c03b8a499beaa65a5d2d433:0", "variant": "system", "grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "send": false, "note": "account-page load issue, got stream-troubleshooting"}
+{"case_id": "295226b63c72dda2f21ba5b685b793f0:0", "variant": "system", "grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "send": true, "note": "refund request correctly refused in public"}
+{"case_id": "1d14560e6ac9d214f2ed5374c2d44782:2", "variant": "system", "grounded": 1, "helpful": 0, "voice": 1, "safe": 1, "send": false, "note": "TBS feed died in the 9th; we talked about licensing"}
+{"case_id": "2063e0617d32f4eb1a34286d4eaec45e:2", "variant": "system", "grounded": 2, "helpful": 0, "voice": 2, "safe": 2, "send": false, "note": "asks which device; they already named Apple TV and Fire TV"}
+{"case_id": "8995391bebb135f73539a0fdfe7f1884:0", "variant": "system", "grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "send": true, "note": "pro-rate belongs on the phone, not in a tweet"}
+{"case_id": "505f8218012c66fe3a6e3d5d12bb52b4:0", "variant": "system", "grounded": 2, "helpful": 1, "voice": 1, "safe": 2, "send": false, "note": "now queues it, but the tweet is still English"}
+{"case_id": "a14246266d25bfb2b4a77f1bdbf2b586:0", "variant": "system", "grounded": 1, "helpful": 0, "voice": 2, "safe": 2, "send": false, "note": "all-device buffering answered with a zip ask"}
+{"case_id": "02dbab8dd0c4f34b2ccd58be16b0e4c8:2", "variant": "system", "grounded": 1, "helpful": 0, "voice": 1, "safe": 2, "send": false, "note": "they listed favourite shows; we recited the rights disclaimer"}
+{"case_id": "82e7412ae30e1b4360242d5b0a74c8cc:0", "variant": "system", "grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "send": false, "note": "should say NFL Network is not carried, not ask for a zip"}
+{"case_id": "0e683fbc04c65b874164808a05ac422f:2", "variant": "system", "grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "send": false, "note": "asks for an error code they already sent (0326)"}
+{"case_id": "990b66dddd83e092e137a074218cd3e6:0", "variant": "system", "grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "send": true, "note": "churn threat correctly handed to a human"}
+{"case_id": "c854429d1d0d250eb331801d506aa0fb:2", "variant": "system", "grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "send": true, "note": "documented path failed; phone is the right next step"}
+{"case_id": "aa360f3908c192133ed809dbe0e2ec72:0", "variant": "system", "grounded": 1, "helpful": 1, "voice": 1, "safe": 2, "send": false, "note": "can't play anything; we treated it as a UI opinion"}
+{"case_id": "08b5fa3494cd7b155fe66f48801c6890:2", "variant": "system", "grounded": 2, "helpful": 1, "voice": 2, "safe": 2, "send": true, "note": "already gone; handoff is harmless if a bit late"}
+{"case_id": "aefd6bd993f5d974750c21b6e0034b82:2", "variant": "system", "grounded": 1, "helpful": 0, "voice": 1, "safe": 2, "send": false, "note": "thanks after a fix, got the catalogue speech"}
+{"case_id": "9febb7c84c2568ac1824323fee61eea8:2", "variant": "system", "grounded": 1, "helpful": 0, "voice": 2, "safe": 2, "send": false, "note": "how-to for fullscreen; we congratulated them"}
+{"case_id": "e9db591cc36263a02c4849487685df6c:0", "variant": "system", "grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "send": true, "note": "asking device on a truncated-ending report is the right first step"}
+{"case_id": "aff85ee1b4baeae69fe8b002d6984e2a:0", "variant": "system", "grounded": 1, "helpful": 0, "voice": 2, "safe": 1, "send": false, "note": "can't sign in to reach support; we asked for a symptom"}
+{"case_id": "0bb297d24595932dc61a945db43d4f7c:0", "variant": "system", "grounded": 2, "helpful": 2, "voice": 2, "safe": 2, "send": true, "note": "DM-me with no topic; one clarifying question is correct"}
+{"case_id": "989cba0534d3381cbd89037db24ef58d:0", "variant": "system", "grounded": 1, "helpful": 1, "voice": 2, "safe": 2, "send": false, "note": "this is a home-location policy, not a lockout"}
+{"case_id": "21b1ba8cfeb511ba2cb1fc4046a87822:2", "variant": "system", "grounded": 1, "helpful": 0, "voice": 1, "safe": 2, "send": false, "note": "ESPN is back; we asked for a zip"}
+{"case_id": "5bf82641ca738da2e77c0d5dd8168bb9:0", "variant": "system", "grounded": 2, "helpful": 1, "voice": 1, "safe": 1, "send": false, "note": "explicit unsub threat should escalate, not sell No Ads"}
