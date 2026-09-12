@@ -1,0 +1,3361 @@
+{
+  "trivial": {
+    "all": {
+      "n": 220,
+      "intent": {
+        "n": 220,
+        "accuracy": 0.11818181818181818,
+        "macro_f1": 0.021138211382113824,
+        "weighted_f1": 0.024981522542498153,
+        "per_class": {
+          "playback_error": {
+            "support": 71,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "content_availability": {
+            "support": 26,
+            "precision": 0.11818181818181818,
+            "recall": 1.0,
+            "f1": 0.21138211382113822
+          },
+          "live_tv_channels": {
+            "support": 12,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "billing_charge": {
+            "support": 10,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "account_access": {
+            "support": 19,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "subscription_change": {
+            "support": 8,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "ads_complaint": {
+            "support": 17,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "device_or_feature_feedback": {
+            "support": 27,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "unclear_request": {
+            "support": 13,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "praise_or_chatter": {
+            "support": 17,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          }
+        },
+        "accuracy_ci": [
+          0.07727272727272727,
+          0.16363636363636364
+        ]
+      },
+      "routing": {
+        "n": 220,
+        "accuracy": 0.6181818181818182,
+        "escalate_precision": 0.0,
+        "escalate_recall": 0.0,
+        "escalate_f1": 0.0,
+        "kappa": 0.0,
+        "missed_escalations": 84,
+        "needless_escalations": 0,
+        "auto_rate": 1.0,
+        "cost_per_case": 1.9090909090909092,
+        "tp": 0,
+        "fp": 0,
+        "fn": 84,
+        "tn": 136,
+        "recall_ci": [
+          0.0,
+          0.0
+        ]
+      },
+      "reason": {
+        "n": 0,
+        "exact": 0.0,
+        "any_overlap": 0.0
+      },
+      "reply": {
+        "n": 220,
+        "invented_link_rate": 0.0,
+        "over_280_rate": 0.0,
+        "unsafe_promise_rate": 0.0,
+        "public_pii_request_rate": 0.0,
+        "empty_rate": 0.0,
+        "handoff_consistency": 0.0,
+        "token_f1_vs_actual": 0.1909222274686206,
+        "mean_chars": 124.0
+      },
+      "confusion": [
+        {
+          "gold": "playback_error",
+          "n": 71,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              71
+            ]
+          ]
+        },
+        {
+          "gold": "content_availability",
+          "n": 26,
+          "correct": 26,
+          "top_confusions": []
+        },
+        {
+          "gold": "live_tv_channels",
+          "n": 12,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              12
+            ]
+          ]
+        },
+        {
+          "gold": "billing_charge",
+          "n": 10,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              10
+            ]
+          ]
+        },
+        {
+          "gold": "account_access",
+          "n": 19,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              19
+            ]
+          ]
+        },
+        {
+          "gold": "subscription_change",
+          "n": 8,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              8
+            ]
+          ]
+        },
+        {
+          "gold": "ads_complaint",
+          "n": 17,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              17
+            ]
+          ]
+        },
+        {
+          "gold": "device_or_feature_feedback",
+          "n": 27,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              27
+            ]
+          ]
+        },
+        {
+          "gold": "unclear_request",
+          "n": 13,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              13
+            ]
+          ]
+        },
+        {
+          "gold": "praise_or_chatter",
+          "n": 17,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              17
+            ]
+          ]
+        }
+      ],
+      "judge": {
+        "n": 220,
+        "mean_grounded": 2.0,
+        "mean_helpful": 0.0,
+        "mean_voice": 2.0,
+        "mean_safe": 2.0,
+        "mean_total": 6.0,
+        "send_rate": 0.0,
+        "send_rate_ci": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "random": {
+      "n": 120,
+      "intent": {
+        "n": 120,
+        "accuracy": 0.175,
+        "macro_f1": 0.02978723404255319,
+        "weighted_f1": 0.052127659574468084,
+        "per_class": {
+          "playback_error": {
+            "support": 43,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "content_availability": {
+            "support": 21,
+            "precision": 0.175,
+            "recall": 1.0,
+            "f1": 0.2978723404255319
+          },
+          "live_tv_channels": {
+            "support": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "billing_charge": {
+            "support": 6,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "account_access": {
+            "support": 6,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "subscription_change": {
+            "support": 3,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "ads_complaint": {
+            "support": 6,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "device_or_feature_feedback": {
+            "support": 12,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "unclear_request": {
+            "support": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "praise_or_chatter": {
+            "support": 9,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          }
+        },
+        "accuracy_ci": [
+          0.10833333333333334,
+          0.24166666666666667
+        ]
+      },
+      "routing": {
+        "n": 120,
+        "accuracy": 0.6916666666666667,
+        "escalate_precision": 0.0,
+        "escalate_recall": 0.0,
+        "escalate_f1": 0.0,
+        "kappa": 0.0,
+        "missed_escalations": 37,
+        "needless_escalations": 0,
+        "auto_rate": 1.0,
+        "cost_per_case": 1.5416666666666667,
+        "tp": 0,
+        "fp": 0,
+        "fn": 37,
+        "tn": 83,
+        "recall_ci": [
+          0.0,
+          0.0
+        ]
+      },
+      "reason": {
+        "n": 0,
+        "exact": 0.0,
+        "any_overlap": 0.0
+      },
+      "reply": {
+        "n": 120,
+        "invented_link_rate": 0.0,
+        "over_280_rate": 0.0,
+        "unsafe_promise_rate": 0.0,
+        "public_pii_request_rate": 0.0,
+        "empty_rate": 0.0,
+        "handoff_consistency": 0.0,
+        "token_f1_vs_actual": 0.18824063714079048,
+        "mean_chars": 124.0
+      },
+      "confusion": [
+        {
+          "gold": "playback_error",
+          "n": 43,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              43
+            ]
+          ]
+        },
+        {
+          "gold": "content_availability",
+          "n": 21,
+          "correct": 21,
+          "top_confusions": []
+        },
+        {
+          "gold": "live_tv_channels",
+          "n": 7,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              7
+            ]
+          ]
+        },
+        {
+          "gold": "billing_charge",
+          "n": 6,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              6
+            ]
+          ]
+        },
+        {
+          "gold": "account_access",
+          "n": 6,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              6
+            ]
+          ]
+        },
+        {
+          "gold": "subscription_change",
+          "n": 3,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              3
+            ]
+          ]
+        },
+        {
+          "gold": "ads_complaint",
+          "n": 6,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              6
+            ]
+          ]
+        },
+        {
+          "gold": "device_or_feature_feedback",
+          "n": 12,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              12
+            ]
+          ]
+        },
+        {
+          "gold": "unclear_request",
+          "n": 7,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              7
+            ]
+          ]
+        },
+        {
+          "gold": "praise_or_chatter",
+          "n": 9,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              9
+            ]
+          ]
+        }
+      ],
+      "judge": {
+        "n": 120,
+        "mean_grounded": 2.0,
+        "mean_helpful": 0.0,
+        "mean_voice": 2.0,
+        "mean_safe": 2.0,
+        "mean_total": 6.0,
+        "send_rate": 0.0,
+        "send_rate_ci": [
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "simple": {
+    "all": {
+      "n": 220,
+      "intent": {
+        "n": 220,
+        "accuracy": 0.45454545454545453,
+        "macro_f1": 0.47824352664564174,
+        "weighted_f1": 0.43185209135707187,
+        "per_class": {
+          "playback_error": {
+            "support": 71,
+            "precision": 0.8571428571428571,
+            "recall": 0.16901408450704225,
+            "f1": 0.2823529411764706
+          },
+          "content_availability": {
+            "support": 26,
+            "precision": 0.29577464788732394,
+            "recall": 0.8076923076923077,
+            "f1": 0.4329896907216495
+          },
+          "live_tv_channels": {
+            "support": 12,
+            "precision": 0.3,
+            "recall": 0.75,
+            "f1": 0.4285714285714285
+          },
+          "billing_charge": {
+            "support": 10,
+            "precision": 0.42105263157894735,
+            "recall": 0.8,
+            "f1": 0.5517241379310345
+          },
+          "account_access": {
+            "support": 19,
+            "precision": 1.0,
+            "recall": 0.631578947368421,
+            "f1": 0.7741935483870968
+          },
+          "subscription_change": {
+            "support": 8,
+            "precision": 0.38461538461538464,
+            "recall": 0.625,
+            "f1": 0.4761904761904762
+          },
+          "ads_complaint": {
+            "support": 17,
+            "precision": 0.6,
+            "recall": 0.5294117647058824,
+            "f1": 0.5625
+          },
+          "device_or_feature_feedback": {
+            "support": 27,
+            "precision": 0.6153846153846154,
+            "recall": 0.2962962962962963,
+            "f1": 0.4
+          },
+          "unclear_request": {
+            "support": 13,
+            "precision": 0.2,
+            "recall": 0.15384615384615385,
+            "f1": 0.17391304347826086
+          },
+          "praise_or_chatter": {
+            "support": 17,
+            "precision": 0.6086956521739131,
+            "recall": 0.8235294117647058,
+            "f1": 0.7
+          }
+        },
+        "accuracy_ci": [
+          0.38636363636363635,
+          0.5181818181818182
+        ]
+      },
+      "routing": {
+        "n": 220,
+        "accuracy": 0.7636363636363637,
+        "escalate_precision": 0.7758620689655172,
+        "escalate_recall": 0.5357142857142857,
+        "escalate_f1": 0.6338028169014084,
+        "kappa": 0.46780796427242277,
+        "missed_escalations": 39,
+        "needless_escalations": 13,
+        "auto_rate": 0.7363636363636363,
+        "cost_per_case": 0.9454545454545454,
+        "tp": 45,
+        "fp": 13,
+        "fn": 39,
+        "tn": 123,
+        "recall_ci": [
+          0.42857142857142855,
+          0.6428571428571429
+        ]
+      },
+      "reason": {
+        "n": 45,
+        "exact": 0.6888888888888889,
+        "any_overlap": 0.8222222222222222,
+        "top_mismatches": [
+          [
+            [
+              "churn_risk",
+              "account_bound"
+            ],
+            13
+          ],
+          [
+            [
+              "self_service_exhausted",
+              "vulnerable_or_safety"
+            ],
+            1
+          ]
+        ]
+      },
+      "reply": {
+        "n": 220,
+        "invented_link_rate": 0.10454545454545454,
+        "over_280_rate": 0.0,
+        "unsafe_promise_rate": 0.0,
+        "public_pii_request_rate": 0.0,
+        "empty_rate": 0.0,
+        "handoff_consistency": 0.46551724137931033,
+        "token_f1_vs_actual": 0.16042180782439072,
+        "mean_chars": 129.08636363636364
+      },
+      "confusion": [
+        {
+          "gold": "playback_error",
+          "n": 71,
+          "correct": 12,
+          "top_confusions": [
+            [
+              "content_availability",
+              22
+            ],
+            [
+              "live_tv_channels",
+              16
+            ]
+          ]
+        },
+        {
+          "gold": "content_availability",
+          "n": 26,
+          "correct": 21,
+          "top_confusions": [
+            [
+              "praise_or_chatter",
+              4
+            ],
+            [
+              "device_or_feature_feedback",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "live_tv_channels",
+          "n": 12,
+          "correct": 9,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ],
+            [
+              "playback_error",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "billing_charge",
+          "n": 10,
+          "correct": 8,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ]
+          ]
+        },
+        {
+          "gold": "account_access",
+          "n": 19,
+          "correct": 12,
+          "top_confusions": [
+            [
+              "billing_charge",
+              3
+            ],
+            [
+              "content_availability",
+              2
+            ]
+          ]
+        },
+        {
+          "gold": "subscription_change",
+          "n": 8,
+          "correct": 5,
+          "top_confusions": [
+            [
+              "billing_charge",
+              2
+            ],
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "ads_complaint",
+          "n": 17,
+          "correct": 9,
+          "top_confusions": [
+            [
+              "content_availability",
+              4
+            ],
+            [
+              "praise_or_chatter",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "device_or_feature_feedback",
+          "n": 27,
+          "correct": 8,
+          "top_confusions": [
+            [
+              "content_availability",
+              9
+            ],
+            [
+              "praise_or_chatter",
+              3
+            ]
+          ]
+        },
+        {
+          "gold": "unclear_request",
+          "n": 13,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              6
+            ],
+            [
+              "billing_charge",
+              3
+            ]
+          ]
+        },
+        {
+          "gold": "praise_or_chatter",
+          "n": 17,
+          "correct": 14,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        }
+      ],
+      "judge": {
+        "n": 220,
+        "mean_grounded": 1.3954545454545455,
+        "mean_helpful": 1.4727272727272727,
+        "mean_voice": 1.4227272727272726,
+        "mean_safe": 1.8590909090909091,
+        "mean_total": 6.15,
+        "send_rate": 0.35,
+        "send_rate_ci": [
+          0.2909090909090909,
+          0.41363636363636364
+        ]
+      }
+    },
+    "random": {
+      "n": 120,
+      "intent": {
+        "n": 120,
+        "accuracy": 0.4583333333333333,
+        "macro_f1": 0.44546153717663284,
+        "weighted_f1": 0.42442416526871996,
+        "per_class": {
+          "playback_error": {
+            "support": 43,
+            "precision": 0.9090909090909091,
+            "recall": 0.23255813953488372,
+            "f1": 0.3703703703703703
+          },
+          "content_availability": {
+            "support": 21,
+            "precision": 0.3225806451612903,
+            "recall": 0.9523809523809523,
+            "f1": 0.4819277108433735
+          },
+          "live_tv_channels": {
+            "support": 7,
+            "precision": 0.2777777777777778,
+            "recall": 0.7142857142857143,
+            "f1": 0.4
+          },
+          "billing_charge": {
+            "support": 6,
+            "precision": 0.5555555555555556,
+            "recall": 0.8333333333333334,
+            "f1": 0.6666666666666667
+          },
+          "account_access": {
+            "support": 6,
+            "precision": 1.0,
+            "recall": 0.3333333333333333,
+            "f1": 0.5
+          },
+          "subscription_change": {
+            "support": 3,
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "f1": 0.4
+          },
+          "ads_complaint": {
+            "support": 6,
+            "precision": 0.6,
+            "recall": 0.5,
+            "f1": 0.5454545454545454
+          },
+          "device_or_feature_feedback": {
+            "support": 12,
+            "precision": 0.6666666666666666,
+            "recall": 0.16666666666666666,
+            "f1": 0.26666666666666666
+          },
+          "unclear_request": {
+            "support": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "praise_or_chatter": {
+            "support": 9,
+            "precision": 0.875,
+            "recall": 0.7777777777777778,
+            "f1": 0.823529411764706
+          }
+        },
+        "accuracy_ci": [
+          0.36666666666666664,
+          0.55
+        ]
+      },
+      "routing": {
+        "n": 120,
+        "accuracy": 0.8083333333333333,
+        "escalate_precision": 0.8181818181818182,
+        "escalate_recall": 0.4864864864864865,
+        "escalate_f1": 0.6101694915254238,
+        "kappa": 0.4937637564196625,
+        "missed_escalations": 19,
+        "needless_escalations": 4,
+        "auto_rate": 0.8166666666666667,
+        "cost_per_case": 0.825,
+        "tp": 18,
+        "fp": 4,
+        "fn": 19,
+        "tn": 79,
+        "recall_ci": [
+          0.32432432432432434,
+          0.6486486486486487
+        ]
+      },
+      "reason": {
+        "n": 18,
+        "exact": 0.7777777777777778,
+        "any_overlap": 0.8888888888888888,
+        "top_mismatches": [
+          [
+            [
+              "churn_risk",
+              "account_bound"
+            ],
+            3
+          ],
+          [
+            [
+              "self_service_exhausted",
+              "vulnerable_or_safety"
+            ],
+            1
+          ]
+        ]
+      },
+      "reply": {
+        "n": 120,
+        "invented_link_rate": 0.10833333333333334,
+        "over_280_rate": 0.0,
+        "unsafe_promise_rate": 0.0,
+        "public_pii_request_rate": 0.0,
+        "empty_rate": 0.0,
+        "handoff_consistency": 0.5,
+        "token_f1_vs_actual": 0.1819015129145494,
+        "mean_chars": 127.35
+      },
+      "confusion": [
+        {
+          "gold": "playback_error",
+          "n": 43,
+          "correct": 10,
+          "top_confusions": [
+            [
+              "content_availability",
+              17
+            ],
+            [
+              "live_tv_channels",
+              11
+            ]
+          ]
+        },
+        {
+          "gold": "content_availability",
+          "n": 21,
+          "correct": 20,
+          "top_confusions": [
+            [
+              "praise_or_chatter",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "live_tv_channels",
+          "n": 7,
+          "correct": 5,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ]
+          ]
+        },
+        {
+          "gold": "billing_charge",
+          "n": 6,
+          "correct": 5,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "account_access",
+          "n": 6,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ],
+            [
+              "billing_charge",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "subscription_change",
+          "n": 3,
+          "correct": 1,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ],
+            [
+              "billing_charge",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "ads_complaint",
+          "n": 6,
+          "correct": 3,
+          "top_confusions": [
+            [
+              "content_availability",
+              3
+            ]
+          ]
+        },
+        {
+          "gold": "device_or_feature_feedback",
+          "n": 12,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              9
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "unclear_request",
+          "n": 7,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              5
+            ],
+            [
+              "billing_charge",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "praise_or_chatter",
+          "n": 9,
+          "correct": 7,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ]
+          ]
+        }
+      ],
+      "judge": {
+        "n": 120,
+        "mean_grounded": 1.425,
+        "mean_helpful": 1.475,
+        "mean_voice": 1.35,
+        "mean_safe": 1.9083333333333334,
+        "mean_total": 6.158333333333333,
+        "send_rate": 0.35833333333333334,
+        "send_rate_ci": [
+          0.275,
+          0.44166666666666665
+        ]
+      }
+    }
+  },
+  "tfidf": {
+    "all": {
+      "n": 220,
+      "intent": {
+        "n": 220,
+        "accuracy": 0.4318181818181818,
+        "macro_f1": 0.46364427390633933,
+        "weighted_f1": 0.4392951835555741,
+        "per_class": {
+          "playback_error": {
+            "support": 71,
+            "precision": 0.782608695652174,
+            "recall": 0.2535211267605634,
+            "f1": 0.3829787234042553
+          },
+          "content_availability": {
+            "support": 26,
+            "precision": 0.24742268041237114,
+            "recall": 0.9230769230769231,
+            "f1": 0.3902439024390244
+          },
+          "live_tv_channels": {
+            "support": 12,
+            "precision": 0.18518518518518517,
+            "recall": 0.4166666666666667,
+            "f1": 0.2564102564102564
+          },
+          "billing_charge": {
+            "support": 10,
+            "precision": 0.5,
+            "recall": 0.6,
+            "f1": 0.5454545454545454
+          },
+          "account_access": {
+            "support": 19,
+            "precision": 1.0,
+            "recall": 0.47368421052631576,
+            "f1": 0.6428571428571429
+          },
+          "subscription_change": {
+            "support": 8,
+            "precision": 0.46153846153846156,
+            "recall": 0.75,
+            "f1": 0.5714285714285714
+          },
+          "ads_complaint": {
+            "support": 17,
+            "precision": 0.7272727272727273,
+            "recall": 0.47058823529411764,
+            "f1": 0.5714285714285714
+          },
+          "device_or_feature_feedback": {
+            "support": 27,
+            "precision": 0.5833333333333334,
+            "recall": 0.25925925925925924,
+            "f1": 0.358974358974359
+          },
+          "unclear_request": {
+            "support": 13,
+            "precision": 0.6666666666666666,
+            "recall": 0.15384615384615385,
+            "f1": 0.25
+          },
+          "praise_or_chatter": {
+            "support": 17,
+            "precision": 0.7692307692307693,
+            "recall": 0.5882352941176471,
+            "f1": 0.6666666666666667
+          }
+        },
+        "accuracy_ci": [
+          0.36818181818181817,
+          0.4954545454545455
+        ]
+      },
+      "routing": {
+        "n": 220,
+        "accuracy": 0.6909090909090909,
+        "escalate_precision": 0.5851063829787234,
+        "escalate_recall": 0.6547619047619048,
+        "escalate_f1": 0.6179775280898877,
+        "kappa": 0.359808284833961,
+        "missed_escalations": 29,
+        "needless_escalations": 39,
+        "auto_rate": 0.5727272727272728,
+        "cost_per_case": 0.8363636363636363,
+        "tp": 55,
+        "fp": 39,
+        "fn": 29,
+        "tn": 97,
+        "recall_ci": [
+          0.5476190476190477,
+          0.75
+        ]
+      },
+      "reason": {
+        "n": 55,
+        "exact": 0.5272727272727272,
+        "any_overlap": 0.6181818181818182,
+        "top_mismatches": [
+          [
+            [
+              "churn_risk",
+              "account_bound"
+            ],
+            10
+          ],
+          [
+            [
+              "account_bound",
+              "low_confidence"
+            ],
+            5
+          ],
+          [
+            [
+              "self_service_exhausted",
+              "low_confidence"
+            ],
+            4
+          ],
+          [
+            [
+              "churn_risk",
+              "low_confidence"
+            ],
+            3
+          ],
+          [
+            [
+              "vulnerable_or_safety",
+              "low_confidence"
+            ],
+            1
+          ]
+        ]
+      },
+      "reply": {
+        "n": 220,
+        "invented_link_rate": 0.10454545454545454,
+        "over_280_rate": 0.0,
+        "unsafe_promise_rate": 0.0,
+        "public_pii_request_rate": 0.0,
+        "empty_rate": 0.0,
+        "handoff_consistency": 0.39361702127659576,
+        "token_f1_vs_actual": 0.16042180782439072,
+        "mean_chars": 129.08636363636364
+      },
+      "confusion": [
+        {
+          "gold": "playback_error",
+          "n": 71,
+          "correct": 18,
+          "top_confusions": [
+            [
+              "content_availability",
+              24
+            ],
+            [
+              "live_tv_channels",
+              17
+            ]
+          ]
+        },
+        {
+          "gold": "content_availability",
+          "n": 26,
+          "correct": 24,
+          "top_confusions": [
+            [
+              "device_or_feature_feedback",
+              1
+            ],
+            [
+              "praise_or_chatter",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "live_tv_channels",
+          "n": 12,
+          "correct": 5,
+          "top_confusions": [
+            [
+              "content_availability",
+              5
+            ],
+            [
+              "playback_error",
+              2
+            ]
+          ]
+        },
+        {
+          "gold": "billing_charge",
+          "n": 10,
+          "correct": 6,
+          "top_confusions": [
+            [
+              "content_availability",
+              3
+            ],
+            [
+              "subscription_change",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "account_access",
+          "n": 19,
+          "correct": 9,
+          "top_confusions": [
+            [
+              "content_availability",
+              8
+            ],
+            [
+              "playback_error",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "subscription_change",
+          "n": 8,
+          "correct": 6,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ],
+            [
+              "billing_charge",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "ads_complaint",
+          "n": 17,
+          "correct": 8,
+          "top_confusions": [
+            [
+              "content_availability",
+              7
+            ],
+            [
+              "unclear_request",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "device_or_feature_feedback",
+          "n": 27,
+          "correct": 7,
+          "top_confusions": [
+            [
+              "content_availability",
+              14
+            ],
+            [
+              "live_tv_channels",
+              2
+            ]
+          ]
+        },
+        {
+          "gold": "unclear_request",
+          "n": 13,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              6
+            ],
+            [
+              "billing_charge",
+              3
+            ]
+          ]
+        },
+        {
+          "gold": "praise_or_chatter",
+          "n": 17,
+          "correct": 10,
+          "top_confusions": [
+            [
+              "content_availability",
+              5
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        }
+      ],
+      "judge": {
+        "n": 220,
+        "mean_grounded": 1.3954545454545455,
+        "mean_helpful": 1.5136363636363637,
+        "mean_voice": 1.4227272727272726,
+        "mean_safe": 1.740909090909091,
+        "mean_total": 6.072727272727272,
+        "send_rate": 0.33181818181818185,
+        "send_rate_ci": [
+          0.2727272727272727,
+          0.39545454545454545
+        ]
+      }
+    },
+    "random": {
+      "n": 120,
+      "intent": {
+        "n": 120,
+        "accuracy": 0.4666666666666667,
+        "macro_f1": 0.46161689291101043,
+        "weighted_f1": 0.4607911010558069,
+        "per_class": {
+          "playback_error": {
+            "support": 43,
+            "precision": 0.8823529411764706,
+            "recall": 0.3488372093023256,
+            "f1": 0.5
+          },
+          "content_availability": {
+            "support": 21,
+            "precision": 0.328125,
+            "recall": 1.0,
+            "f1": 0.49411764705882355
+          },
+          "live_tv_channels": {
+            "support": 7,
+            "precision": 0.16666666666666666,
+            "recall": 0.42857142857142855,
+            "f1": 0.24
+          },
+          "billing_charge": {
+            "support": 6,
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+          },
+          "account_access": {
+            "support": 6,
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1": 0.6666666666666666
+          },
+          "subscription_change": {
+            "support": 3,
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "f1": 0.6666666666666666
+          },
+          "ads_complaint": {
+            "support": 6,
+            "precision": 1.0,
+            "recall": 0.3333333333333333,
+            "f1": 0.5
+          },
+          "device_or_feature_feedback": {
+            "support": 12,
+            "precision": 0.6666666666666666,
+            "recall": 0.16666666666666666,
+            "f1": 0.26666666666666666
+          },
+          "unclear_request": {
+            "support": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "praise_or_chatter": {
+            "support": 9,
+            "precision": 1.0,
+            "recall": 0.4444444444444444,
+            "f1": 0.6153846153846153
+          }
+        },
+        "accuracy_ci": [
+          0.375,
+          0.5583333333333333
+        ]
+      },
+      "routing": {
+        "n": 120,
+        "accuracy": 0.7166666666666667,
+        "escalate_precision": 0.5333333333333333,
+        "escalate_recall": 0.6486486486486487,
+        "escalate_f1": 0.5853658536585367,
+        "kappa": 0.3732718894009217,
+        "missed_escalations": 13,
+        "needless_escalations": 21,
+        "auto_rate": 0.625,
+        "cost_per_case": 0.7166666666666667,
+        "tp": 24,
+        "fp": 21,
+        "fn": 13,
+        "tn": 62,
+        "recall_ci": [
+          0.4864864864864865,
+          0.8108108108108109
+        ]
+      },
+      "reason": {
+        "n": 24,
+        "exact": 0.6666666666666666,
+        "any_overlap": 0.7083333333333334,
+        "top_mismatches": [
+          [
+            [
+              "self_service_exhausted",
+              "low_confidence"
+            ],
+            2
+          ],
+          [
+            [
+              "churn_risk",
+              "account_bound"
+            ],
+            2
+          ],
+          [
+            [
+              "churn_risk",
+              "low_confidence"
+            ],
+            1
+          ],
+          [
+            [
+              "vulnerable_or_safety",
+              "low_confidence"
+            ],
+            1
+          ],
+          [
+            [
+              "self_service_exhausted",
+              "account_bound"
+            ],
+            1
+          ]
+        ]
+      },
+      "reply": {
+        "n": 120,
+        "invented_link_rate": 0.10833333333333334,
+        "over_280_rate": 0.0,
+        "unsafe_promise_rate": 0.0,
+        "public_pii_request_rate": 0.0,
+        "empty_rate": 0.0,
+        "handoff_consistency": 0.37777777777777777,
+        "token_f1_vs_actual": 0.1819015129145494,
+        "mean_chars": 127.35
+      },
+      "confusion": [
+        {
+          "gold": "playback_error",
+          "n": 43,
+          "correct": 15,
+          "top_confusions": [
+            [
+              "content_availability",
+              14
+            ],
+            [
+              "live_tv_channels",
+              12
+            ]
+          ]
+        },
+        {
+          "gold": "content_availability",
+          "n": 21,
+          "correct": 21,
+          "top_confusions": []
+        },
+        {
+          "gold": "live_tv_channels",
+          "n": 7,
+          "correct": 3,
+          "top_confusions": [
+            [
+              "content_availability",
+              3
+            ],
+            [
+              "playback_error",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "billing_charge",
+          "n": 6,
+          "correct": 4,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ],
+            [
+              "subscription_change",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "account_access",
+          "n": 6,
+          "correct": 3,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ],
+            [
+              "playback_error",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "subscription_change",
+          "n": 3,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "ads_complaint",
+          "n": 6,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              4
+            ]
+          ]
+        },
+        {
+          "gold": "device_or_feature_feedback",
+          "n": 12,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              9
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "unclear_request",
+          "n": 7,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              5
+            ],
+            [
+              "billing_charge",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "praise_or_chatter",
+          "n": 9,
+          "correct": 4,
+          "top_confusions": [
+            [
+              "content_availability",
+              4
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        }
+      ],
+      "judge": {
+        "n": 120,
+        "mean_grounded": 1.425,
+        "mean_helpful": 1.525,
+        "mean_voice": 1.35,
+        "mean_safe": 1.7666666666666666,
+        "mean_total": 6.066666666666666,
+        "send_rate": 0.3416666666666667,
+        "send_rate_ci": [
+          0.25833333333333336,
+          0.425
+        ]
+      }
+    }
+  },
+  "system": {
+    "all": {
+      "n": 220,
+      "intent": {
+        "n": 220,
+        "accuracy": 0.5045454545454545,
+        "macro_f1": 0.5044470475753393,
+        "weighted_f1": 0.5043393095577955,
+        "per_class": {
+          "playback_error": {
+            "support": 71,
+            "precision": 0.8571428571428571,
+            "recall": 0.3380281690140845,
+            "f1": 0.48484848484848475
+          },
+          "content_availability": {
+            "support": 26,
+            "precision": 0.3384615384615385,
+            "recall": 0.8461538461538461,
+            "f1": 0.48351648351648346
+          },
+          "live_tv_channels": {
+            "support": 12,
+            "precision": 0.34615384615384615,
+            "recall": 0.75,
+            "f1": 0.4736842105263157
+          },
+          "billing_charge": {
+            "support": 10,
+            "precision": 0.46153846153846156,
+            "recall": 0.6,
+            "f1": 0.5217391304347826
+          },
+          "account_access": {
+            "support": 19,
+            "precision": 1.0,
+            "recall": 0.7894736842105263,
+            "f1": 0.8823529411764706
+          },
+          "subscription_change": {
+            "support": 8,
+            "precision": 0.38461538461538464,
+            "recall": 0.625,
+            "f1": 0.4761904761904762
+          },
+          "ads_complaint": {
+            "support": 17,
+            "precision": 0.7142857142857143,
+            "recall": 0.5882352941176471,
+            "f1": 0.6451612903225806
+          },
+          "device_or_feature_feedback": {
+            "support": 27,
+            "precision": 0.5714285714285714,
+            "recall": 0.2962962962962963,
+            "f1": 0.3902439024390244
+          },
+          "unclear_request": {
+            "support": 13,
+            "precision": 0.2,
+            "recall": 0.15384615384615385,
+            "f1": 0.17391304347826086
+          },
+          "praise_or_chatter": {
+            "support": 17,
+            "precision": 0.45454545454545453,
+            "recall": 0.5882352941176471,
+            "f1": 0.5128205128205129
+          }
+        },
+        "accuracy_ci": [
+          0.43636363636363634,
+          0.5681818181818182
+        ]
+      },
+      "routing": {
+        "n": 220,
+        "accuracy": 0.7545454545454545,
+        "escalate_precision": 0.7419354838709677,
+        "escalate_recall": 0.5476190476190477,
+        "escalate_f1": 0.6301369863013699,
+        "kappa": 0.45263545890158496,
+        "missed_escalations": 38,
+        "needless_escalations": 16,
+        "auto_rate": 0.7181818181818181,
+        "cost_per_case": 0.9363636363636364,
+        "tp": 46,
+        "fp": 16,
+        "fn": 38,
+        "tn": 120,
+        "recall_ci": [
+          0.44047619047619047,
+          0.6547619047619048
+        ]
+      },
+      "reason": {
+        "n": 46,
+        "exact": 0.7391304347826086,
+        "any_overlap": 0.8695652173913043,
+        "top_mismatches": [
+          [
+            [
+              "churn_risk",
+              "account_bound"
+            ],
+            11
+          ],
+          [
+            [
+              "self_service_exhausted",
+              "vulnerable_or_safety"
+            ],
+            1
+          ]
+        ]
+      },
+      "reply": {
+        "n": 220,
+        "invented_link_rate": 0.0,
+        "over_280_rate": 0.0,
+        "unsafe_promise_rate": 0.0,
+        "public_pii_request_rate": 0.0,
+        "empty_rate": 0.0,
+        "handoff_consistency": 1.0,
+        "token_f1_vs_actual": 0.1483679311737331,
+        "mean_chars": 151.12727272727273
+      },
+      "confusion": [
+        {
+          "gold": "playback_error",
+          "n": 71,
+          "correct": 24,
+          "top_confusions": [
+            [
+              "content_availability",
+              19
+            ],
+            [
+              "live_tv_channels",
+              10
+            ]
+          ]
+        },
+        {
+          "gold": "content_availability",
+          "n": 26,
+          "correct": 22,
+          "top_confusions": [
+            [
+              "praise_or_chatter",
+              3
+            ],
+            [
+              "device_or_feature_feedback",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "live_tv_channels",
+          "n": 12,
+          "correct": 9,
+          "top_confusions": [
+            [
+              "playback_error",
+              2
+            ],
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "billing_charge",
+          "n": 10,
+          "correct": 6,
+          "top_confusions": [
+            [
+              "ads_complaint",
+              1
+            ],
+            [
+              "praise_or_chatter",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "account_access",
+          "n": 19,
+          "correct": 15,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ],
+            [
+              "playback_error",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "subscription_change",
+          "n": 8,
+          "correct": 5,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "ads_complaint",
+          "n": 17,
+          "correct": 10,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "device_or_feature_feedback",
+          "n": 27,
+          "correct": 8,
+          "top_confusions": [
+            [
+              "content_availability",
+              8
+            ],
+            [
+              "praise_or_chatter",
+              3
+            ]
+          ]
+        },
+        {
+          "gold": "unclear_request",
+          "n": 13,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              4
+            ],
+            [
+              "billing_charge",
+              3
+            ]
+          ]
+        },
+        {
+          "gold": "praise_or_chatter",
+          "n": 17,
+          "correct": 10,
+          "top_confusions": [
+            [
+              "content_availability",
+              6
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        }
+      ],
+      "judge": {
+        "n": 220,
+        "mean_grounded": 1.8727272727272728,
+        "mean_helpful": 1.9454545454545455,
+        "mean_voice": 1.759090909090909,
+        "mean_safe": 2.0,
+        "mean_total": 7.577272727272727,
+        "send_rate": 0.9454545454545454,
+        "send_rate_ci": [
+          0.9136363636363637,
+          0.9727272727272728
+        ]
+      }
+    },
+    "random": {
+      "n": 120,
+      "intent": {
+        "n": 120,
+        "accuracy": 0.5333333333333333,
+        "macro_f1": 0.4964139537463258,
+        "weighted_f1": 0.5203849003876041,
+        "per_class": {
+          "playback_error": {
+            "support": 43,
+            "precision": 0.8636363636363636,
+            "recall": 0.4418604651162791,
+            "f1": 0.5846153846153846
+          },
+          "content_availability": {
+            "support": 21,
+            "precision": 0.38461538461538464,
+            "recall": 0.9523809523809523,
+            "f1": 0.547945205479452
+          },
+          "live_tv_channels": {
+            "support": 7,
+            "precision": 0.29411764705882354,
+            "recall": 0.7142857142857143,
+            "f1": 0.4166666666666667
+          },
+          "billing_charge": {
+            "support": 6,
+            "precision": 0.75,
+            "recall": 0.5,
+            "f1": 0.6
+          },
+          "account_access": {
+            "support": 6,
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "f1": 0.8
+          },
+          "subscription_change": {
+            "support": 3,
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333
+          },
+          "ads_complaint": {
+            "support": 6,
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "f1": 0.8
+          },
+          "device_or_feature_feedback": {
+            "support": 12,
+            "precision": 0.5,
+            "recall": 0.16666666666666666,
+            "f1": 0.25
+          },
+          "unclear_request": {
+            "support": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "praise_or_chatter": {
+            "support": 9,
+            "precision": 0.6,
+            "recall": 0.6666666666666666,
+            "f1": 0.631578947368421
+          }
+        },
+        "accuracy_ci": [
+          0.45,
+          0.625
+        ]
+      },
+      "routing": {
+        "n": 120,
+        "accuracy": 0.8083333333333333,
+        "escalate_precision": 0.7916666666666666,
+        "escalate_recall": 0.5135135135135135,
+        "escalate_f1": 0.6229508196721311,
+        "kappa": 0.5021645021645023,
+        "missed_escalations": 18,
+        "needless_escalations": 5,
+        "auto_rate": 0.8,
+        "cost_per_case": 0.7916666666666666,
+        "tp": 19,
+        "fp": 5,
+        "fn": 18,
+        "tn": 78,
+        "recall_ci": [
+          0.35135135135135137,
+          0.6756756756756757
+        ]
+      },
+      "reason": {
+        "n": 19,
+        "exact": 0.8421052631578947,
+        "any_overlap": 0.9473684210526315,
+        "top_mismatches": [
+          [
+            [
+              "churn_risk",
+              "account_bound"
+            ],
+            2
+          ],
+          [
+            [
+              "self_service_exhausted",
+              "vulnerable_or_safety"
+            ],
+            1
+          ]
+        ]
+      },
+      "reply": {
+        "n": 120,
+        "invented_link_rate": 0.0,
+        "over_280_rate": 0.0,
+        "unsafe_promise_rate": 0.0,
+        "public_pii_request_rate": 0.0,
+        "empty_rate": 0.0,
+        "handoff_consistency": 1.0,
+        "token_f1_vs_actual": 0.15226984895110582,
+        "mean_chars": 155.9
+      },
+      "confusion": [
+        {
+          "gold": "playback_error",
+          "n": 43,
+          "correct": 19,
+          "top_confusions": [
+            [
+              "content_availability",
+              13
+            ],
+            [
+              "live_tv_channels",
+              8
+            ]
+          ]
+        },
+        {
+          "gold": "content_availability",
+          "n": 21,
+          "correct": 20,
+          "top_confusions": [
+            [
+              "praise_or_chatter",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "live_tv_channels",
+          "n": 7,
+          "correct": 5,
+          "top_confusions": [
+            [
+              "playback_error",
+              1
+            ],
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "billing_charge",
+          "n": 6,
+          "correct": 3,
+          "top_confusions": [
+            [
+              "praise_or_chatter",
+              1
+            ],
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "account_access",
+          "n": 6,
+          "correct": 4,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ],
+            [
+              "playback_error",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "subscription_change",
+          "n": 3,
+          "correct": 1,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "ads_complaint",
+          "n": 6,
+          "correct": 4,
+          "top_confusions": [
+            [
+              "live_tv_channels",
+              1
+            ],
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "device_or_feature_feedback",
+          "n": 12,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              8
+            ],
+            [
+              "playback_error",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "unclear_request",
+          "n": 7,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              3
+            ],
+            [
+              "praise_or_chatter",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "praise_or_chatter",
+          "n": 9,
+          "correct": 6,
+          "top_confusions": [
+            [
+              "content_availability",
+              3
+            ]
+          ]
+        }
+      ],
+      "judge": {
+        "n": 120,
+        "mean_grounded": 1.925,
+        "mean_helpful": 1.975,
+        "mean_voice": 1.7833333333333334,
+        "mean_safe": 2.0,
+        "mean_total": 7.683333333333334,
+        "send_rate": 0.975,
+        "send_rate_ci": [
+          0.9416666666666667,
+          1.0
+        ]
+      }
+    }
+  },
+  "stacked_copy": {
+    "all": {
+      "n": 220,
+      "intent": {
+        "n": 220,
+        "accuracy": 0.5045454545454545,
+        "macro_f1": 0.5044470475753393,
+        "weighted_f1": 0.5043393095577955,
+        "per_class": {
+          "playback_error": {
+            "support": 71,
+            "precision": 0.8571428571428571,
+            "recall": 0.3380281690140845,
+            "f1": 0.48484848484848475
+          },
+          "content_availability": {
+            "support": 26,
+            "precision": 0.3384615384615385,
+            "recall": 0.8461538461538461,
+            "f1": 0.48351648351648346
+          },
+          "live_tv_channels": {
+            "support": 12,
+            "precision": 0.34615384615384615,
+            "recall": 0.75,
+            "f1": 0.4736842105263157
+          },
+          "billing_charge": {
+            "support": 10,
+            "precision": 0.46153846153846156,
+            "recall": 0.6,
+            "f1": 0.5217391304347826
+          },
+          "account_access": {
+            "support": 19,
+            "precision": 1.0,
+            "recall": 0.7894736842105263,
+            "f1": 0.8823529411764706
+          },
+          "subscription_change": {
+            "support": 8,
+            "precision": 0.38461538461538464,
+            "recall": 0.625,
+            "f1": 0.4761904761904762
+          },
+          "ads_complaint": {
+            "support": 17,
+            "precision": 0.7142857142857143,
+            "recall": 0.5882352941176471,
+            "f1": 0.6451612903225806
+          },
+          "device_or_feature_feedback": {
+            "support": 27,
+            "precision": 0.5714285714285714,
+            "recall": 0.2962962962962963,
+            "f1": 0.3902439024390244
+          },
+          "unclear_request": {
+            "support": 13,
+            "precision": 0.2,
+            "recall": 0.15384615384615385,
+            "f1": 0.17391304347826086
+          },
+          "praise_or_chatter": {
+            "support": 17,
+            "precision": 0.45454545454545453,
+            "recall": 0.5882352941176471,
+            "f1": 0.5128205128205129
+          }
+        },
+        "accuracy_ci": [
+          0.43636363636363634,
+          0.5681818181818182
+        ]
+      },
+      "routing": {
+        "n": 220,
+        "accuracy": 0.7545454545454545,
+        "escalate_precision": 0.7419354838709677,
+        "escalate_recall": 0.5476190476190477,
+        "escalate_f1": 0.6301369863013699,
+        "kappa": 0.45263545890158496,
+        "missed_escalations": 38,
+        "needless_escalations": 16,
+        "auto_rate": 0.7181818181818181,
+        "cost_per_case": 0.9363636363636364,
+        "tp": 46,
+        "fp": 16,
+        "fn": 38,
+        "tn": 120,
+        "recall_ci": [
+          0.44047619047619047,
+          0.6547619047619048
+        ]
+      },
+      "reason": {
+        "n": 46,
+        "exact": 0.7391304347826086,
+        "any_overlap": 0.8695652173913043,
+        "top_mismatches": [
+          [
+            [
+              "churn_risk",
+              "account_bound"
+            ],
+            11
+          ],
+          [
+            [
+              "self_service_exhausted",
+              "vulnerable_or_safety"
+            ],
+            1
+          ]
+        ]
+      },
+      "reply": {
+        "n": 220,
+        "invented_link_rate": 0.10454545454545454,
+        "over_280_rate": 0.0,
+        "unsafe_promise_rate": 0.0,
+        "public_pii_request_rate": 0.0,
+        "empty_rate": 0.0,
+        "handoff_consistency": 0.45161290322580644,
+        "token_f1_vs_actual": 0.16042180782439072,
+        "mean_chars": 129.08636363636364
+      },
+      "confusion": [
+        {
+          "gold": "playback_error",
+          "n": 71,
+          "correct": 24,
+          "top_confusions": [
+            [
+              "content_availability",
+              19
+            ],
+            [
+              "live_tv_channels",
+              10
+            ]
+          ]
+        },
+        {
+          "gold": "content_availability",
+          "n": 26,
+          "correct": 22,
+          "top_confusions": [
+            [
+              "praise_or_chatter",
+              3
+            ],
+            [
+              "device_or_feature_feedback",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "live_tv_channels",
+          "n": 12,
+          "correct": 9,
+          "top_confusions": [
+            [
+              "playback_error",
+              2
+            ],
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "billing_charge",
+          "n": 10,
+          "correct": 6,
+          "top_confusions": [
+            [
+              "ads_complaint",
+              1
+            ],
+            [
+              "praise_or_chatter",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "account_access",
+          "n": 19,
+          "correct": 15,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ],
+            [
+              "playback_error",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "subscription_change",
+          "n": 8,
+          "correct": 5,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "ads_complaint",
+          "n": 17,
+          "correct": 10,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "device_or_feature_feedback",
+          "n": 27,
+          "correct": 8,
+          "top_confusions": [
+            [
+              "content_availability",
+              8
+            ],
+            [
+              "praise_or_chatter",
+              3
+            ]
+          ]
+        },
+        {
+          "gold": "unclear_request",
+          "n": 13,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              4
+            ],
+            [
+              "billing_charge",
+              3
+            ]
+          ]
+        },
+        {
+          "gold": "praise_or_chatter",
+          "n": 17,
+          "correct": 10,
+          "top_confusions": [
+            [
+              "content_availability",
+              6
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        }
+      ],
+      "judge": {
+        "n": 220,
+        "mean_grounded": 1.3954545454545455,
+        "mean_helpful": 1.4772727272727273,
+        "mean_voice": 1.4227272727272726,
+        "mean_safe": 1.8454545454545455,
+        "mean_total": 6.140909090909091,
+        "send_rate": 0.35454545454545455,
+        "send_rate_ci": [
+          0.2909090909090909,
+          0.41818181818181815
+        ]
+      }
+    },
+    "random": {
+      "n": 120,
+      "intent": {
+        "n": 120,
+        "accuracy": 0.5333333333333333,
+        "macro_f1": 0.4964139537463258,
+        "weighted_f1": 0.5203849003876041,
+        "per_class": {
+          "playback_error": {
+            "support": 43,
+            "precision": 0.8636363636363636,
+            "recall": 0.4418604651162791,
+            "f1": 0.5846153846153846
+          },
+          "content_availability": {
+            "support": 21,
+            "precision": 0.38461538461538464,
+            "recall": 0.9523809523809523,
+            "f1": 0.547945205479452
+          },
+          "live_tv_channels": {
+            "support": 7,
+            "precision": 0.29411764705882354,
+            "recall": 0.7142857142857143,
+            "f1": 0.4166666666666667
+          },
+          "billing_charge": {
+            "support": 6,
+            "precision": 0.75,
+            "recall": 0.5,
+            "f1": 0.6
+          },
+          "account_access": {
+            "support": 6,
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "f1": 0.8
+          },
+          "subscription_change": {
+            "support": 3,
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "f1": 0.3333333333333333
+          },
+          "ads_complaint": {
+            "support": 6,
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "f1": 0.8
+          },
+          "device_or_feature_feedback": {
+            "support": 12,
+            "precision": 0.5,
+            "recall": 0.16666666666666666,
+            "f1": 0.25
+          },
+          "unclear_request": {
+            "support": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "praise_or_chatter": {
+            "support": 9,
+            "precision": 0.6,
+            "recall": 0.6666666666666666,
+            "f1": 0.631578947368421
+          }
+        },
+        "accuracy_ci": [
+          0.45,
+          0.625
+        ]
+      },
+      "routing": {
+        "n": 120,
+        "accuracy": 0.8083333333333333,
+        "escalate_precision": 0.7916666666666666,
+        "escalate_recall": 0.5135135135135135,
+        "escalate_f1": 0.6229508196721311,
+        "kappa": 0.5021645021645023,
+        "missed_escalations": 18,
+        "needless_escalations": 5,
+        "auto_rate": 0.8,
+        "cost_per_case": 0.7916666666666666,
+        "tp": 19,
+        "fp": 5,
+        "fn": 18,
+        "tn": 78,
+        "recall_ci": [
+          0.35135135135135137,
+          0.6756756756756757
+        ]
+      },
+      "reason": {
+        "n": 19,
+        "exact": 0.8421052631578947,
+        "any_overlap": 0.9473684210526315,
+        "top_mismatches": [
+          [
+            [
+              "churn_risk",
+              "account_bound"
+            ],
+            2
+          ],
+          [
+            [
+              "self_service_exhausted",
+              "vulnerable_or_safety"
+            ],
+            1
+          ]
+        ]
+      },
+      "reply": {
+        "n": 120,
+        "invented_link_rate": 0.10833333333333334,
+        "over_280_rate": 0.0,
+        "unsafe_promise_rate": 0.0,
+        "public_pii_request_rate": 0.0,
+        "empty_rate": 0.0,
+        "handoff_consistency": 0.4583333333333333,
+        "token_f1_vs_actual": 0.1819015129145494,
+        "mean_chars": 127.35
+      },
+      "confusion": [
+        {
+          "gold": "playback_error",
+          "n": 43,
+          "correct": 19,
+          "top_confusions": [
+            [
+              "content_availability",
+              13
+            ],
+            [
+              "live_tv_channels",
+              8
+            ]
+          ]
+        },
+        {
+          "gold": "content_availability",
+          "n": 21,
+          "correct": 20,
+          "top_confusions": [
+            [
+              "praise_or_chatter",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "live_tv_channels",
+          "n": 7,
+          "correct": 5,
+          "top_confusions": [
+            [
+              "playback_error",
+              1
+            ],
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "billing_charge",
+          "n": 6,
+          "correct": 3,
+          "top_confusions": [
+            [
+              "praise_or_chatter",
+              1
+            ],
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "account_access",
+          "n": 6,
+          "correct": 4,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ],
+            [
+              "playback_error",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "subscription_change",
+          "n": 3,
+          "correct": 1,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "ads_complaint",
+          "n": 6,
+          "correct": 4,
+          "top_confusions": [
+            [
+              "live_tv_channels",
+              1
+            ],
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "device_or_feature_feedback",
+          "n": 12,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              8
+            ],
+            [
+              "playback_error",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "unclear_request",
+          "n": 7,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              3
+            ],
+            [
+              "praise_or_chatter",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "praise_or_chatter",
+          "n": 9,
+          "correct": 6,
+          "top_confusions": [
+            [
+              "content_availability",
+              3
+            ]
+          ]
+        }
+      ],
+      "judge": {
+        "n": 120,
+        "mean_grounded": 1.425,
+        "mean_helpful": 1.4833333333333334,
+        "mean_voice": 1.35,
+        "mean_safe": 1.8916666666666666,
+        "mean_total": 6.15,
+        "send_rate": 0.35833333333333334,
+        "send_rate_ci": [
+          0.26666666666666666,
+          0.44166666666666665
+        ]
+      }
+    }
+  },
+  "rules_grounded": {
+    "all": {
+      "n": 220,
+      "intent": {
+        "n": 220,
+        "accuracy": 0.45454545454545453,
+        "macro_f1": 0.47824352664564174,
+        "weighted_f1": 0.43185209135707187,
+        "per_class": {
+          "playback_error": {
+            "support": 71,
+            "precision": 0.8571428571428571,
+            "recall": 0.16901408450704225,
+            "f1": 0.2823529411764706
+          },
+          "content_availability": {
+            "support": 26,
+            "precision": 0.29577464788732394,
+            "recall": 0.8076923076923077,
+            "f1": 0.4329896907216495
+          },
+          "live_tv_channels": {
+            "support": 12,
+            "precision": 0.3,
+            "recall": 0.75,
+            "f1": 0.4285714285714285
+          },
+          "billing_charge": {
+            "support": 10,
+            "precision": 0.42105263157894735,
+            "recall": 0.8,
+            "f1": 0.5517241379310345
+          },
+          "account_access": {
+            "support": 19,
+            "precision": 1.0,
+            "recall": 0.631578947368421,
+            "f1": 0.7741935483870968
+          },
+          "subscription_change": {
+            "support": 8,
+            "precision": 0.38461538461538464,
+            "recall": 0.625,
+            "f1": 0.4761904761904762
+          },
+          "ads_complaint": {
+            "support": 17,
+            "precision": 0.6,
+            "recall": 0.5294117647058824,
+            "f1": 0.5625
+          },
+          "device_or_feature_feedback": {
+            "support": 27,
+            "precision": 0.6153846153846154,
+            "recall": 0.2962962962962963,
+            "f1": 0.4
+          },
+          "unclear_request": {
+            "support": 13,
+            "precision": 0.2,
+            "recall": 0.15384615384615385,
+            "f1": 0.17391304347826086
+          },
+          "praise_or_chatter": {
+            "support": 17,
+            "precision": 0.6086956521739131,
+            "recall": 0.8235294117647058,
+            "f1": 0.7
+          }
+        },
+        "accuracy_ci": [
+          0.38636363636363635,
+          0.5181818181818182
+        ]
+      },
+      "routing": {
+        "n": 220,
+        "accuracy": 0.7636363636363637,
+        "escalate_precision": 0.7758620689655172,
+        "escalate_recall": 0.5357142857142857,
+        "escalate_f1": 0.6338028169014084,
+        "kappa": 0.46780796427242277,
+        "missed_escalations": 39,
+        "needless_escalations": 13,
+        "auto_rate": 0.7363636363636363,
+        "cost_per_case": 0.9454545454545454,
+        "tp": 45,
+        "fp": 13,
+        "fn": 39,
+        "tn": 123,
+        "recall_ci": [
+          0.42857142857142855,
+          0.6428571428571429
+        ]
+      },
+      "reason": {
+        "n": 45,
+        "exact": 0.6888888888888889,
+        "any_overlap": 0.8222222222222222,
+        "top_mismatches": [
+          [
+            [
+              "churn_risk",
+              "account_bound"
+            ],
+            13
+          ],
+          [
+            [
+              "self_service_exhausted",
+              "vulnerable_or_safety"
+            ],
+            1
+          ]
+        ]
+      },
+      "reply": {
+        "n": 220,
+        "invented_link_rate": 0.0,
+        "over_280_rate": 0.0,
+        "unsafe_promise_rate": 0.0,
+        "public_pii_request_rate": 0.0,
+        "empty_rate": 0.0,
+        "handoff_consistency": 1.0,
+        "token_f1_vs_actual": 0.1463528110034665,
+        "mean_chars": 151.95
+      },
+      "confusion": [
+        {
+          "gold": "playback_error",
+          "n": 71,
+          "correct": 12,
+          "top_confusions": [
+            [
+              "content_availability",
+              22
+            ],
+            [
+              "live_tv_channels",
+              16
+            ]
+          ]
+        },
+        {
+          "gold": "content_availability",
+          "n": 26,
+          "correct": 21,
+          "top_confusions": [
+            [
+              "praise_or_chatter",
+              4
+            ],
+            [
+              "device_or_feature_feedback",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "live_tv_channels",
+          "n": 12,
+          "correct": 9,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ],
+            [
+              "playback_error",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "billing_charge",
+          "n": 10,
+          "correct": 8,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ]
+          ]
+        },
+        {
+          "gold": "account_access",
+          "n": 19,
+          "correct": 12,
+          "top_confusions": [
+            [
+              "billing_charge",
+              3
+            ],
+            [
+              "content_availability",
+              2
+            ]
+          ]
+        },
+        {
+          "gold": "subscription_change",
+          "n": 8,
+          "correct": 5,
+          "top_confusions": [
+            [
+              "billing_charge",
+              2
+            ],
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "ads_complaint",
+          "n": 17,
+          "correct": 9,
+          "top_confusions": [
+            [
+              "content_availability",
+              4
+            ],
+            [
+              "praise_or_chatter",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "device_or_feature_feedback",
+          "n": 27,
+          "correct": 8,
+          "top_confusions": [
+            [
+              "content_availability",
+              9
+            ],
+            [
+              "praise_or_chatter",
+              3
+            ]
+          ]
+        },
+        {
+          "gold": "unclear_request",
+          "n": 13,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              6
+            ],
+            [
+              "billing_charge",
+              3
+            ]
+          ]
+        },
+        {
+          "gold": "praise_or_chatter",
+          "n": 17,
+          "correct": 14,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        }
+      ],
+      "judge": {
+        "n": 220,
+        "mean_grounded": 1.8590909090909091,
+        "mean_helpful": 1.95,
+        "mean_voice": 1.7727272727272727,
+        "mean_safe": 2.0,
+        "mean_total": 7.581818181818182,
+        "send_rate": 0.95,
+        "send_rate_ci": [
+          0.9181818181818182,
+          0.9772727272727273
+        ]
+      }
+    },
+    "random": {
+      "n": 120,
+      "intent": {
+        "n": 120,
+        "accuracy": 0.4583333333333333,
+        "macro_f1": 0.44546153717663284,
+        "weighted_f1": 0.42442416526871996,
+        "per_class": {
+          "playback_error": {
+            "support": 43,
+            "precision": 0.9090909090909091,
+            "recall": 0.23255813953488372,
+            "f1": 0.3703703703703703
+          },
+          "content_availability": {
+            "support": 21,
+            "precision": 0.3225806451612903,
+            "recall": 0.9523809523809523,
+            "f1": 0.4819277108433735
+          },
+          "live_tv_channels": {
+            "support": 7,
+            "precision": 0.2777777777777778,
+            "recall": 0.7142857142857143,
+            "f1": 0.4
+          },
+          "billing_charge": {
+            "support": 6,
+            "precision": 0.5555555555555556,
+            "recall": 0.8333333333333334,
+            "f1": 0.6666666666666667
+          },
+          "account_access": {
+            "support": 6,
+            "precision": 1.0,
+            "recall": 0.3333333333333333,
+            "f1": 0.5
+          },
+          "subscription_change": {
+            "support": 3,
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "f1": 0.4
+          },
+          "ads_complaint": {
+            "support": 6,
+            "precision": 0.6,
+            "recall": 0.5,
+            "f1": 0.5454545454545454
+          },
+          "device_or_feature_feedback": {
+            "support": 12,
+            "precision": 0.6666666666666666,
+            "recall": 0.16666666666666666,
+            "f1": 0.26666666666666666
+          },
+          "unclear_request": {
+            "support": 7,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0
+          },
+          "praise_or_chatter": {
+            "support": 9,
+            "precision": 0.875,
+            "recall": 0.7777777777777778,
+            "f1": 0.823529411764706
+          }
+        },
+        "accuracy_ci": [
+          0.36666666666666664,
+          0.55
+        ]
+      },
+      "routing": {
+        "n": 120,
+        "accuracy": 0.8083333333333333,
+        "escalate_precision": 0.8181818181818182,
+        "escalate_recall": 0.4864864864864865,
+        "escalate_f1": 0.6101694915254238,
+        "kappa": 0.4937637564196625,
+        "missed_escalations": 19,
+        "needless_escalations": 4,
+        "auto_rate": 0.8166666666666667,
+        "cost_per_case": 0.825,
+        "tp": 18,
+        "fp": 4,
+        "fn": 19,
+        "tn": 79,
+        "recall_ci": [
+          0.32432432432432434,
+          0.6486486486486487
+        ]
+      },
+      "reason": {
+        "n": 18,
+        "exact": 0.7777777777777778,
+        "any_overlap": 0.8888888888888888,
+        "top_mismatches": [
+          [
+            [
+              "churn_risk",
+              "account_bound"
+            ],
+            3
+          ],
+          [
+            [
+              "self_service_exhausted",
+              "vulnerable_or_safety"
+            ],
+            1
+          ]
+        ]
+      },
+      "reply": {
+        "n": 120,
+        "invented_link_rate": 0.0,
+        "over_280_rate": 0.0,
+        "unsafe_promise_rate": 0.0,
+        "public_pii_request_rate": 0.0,
+        "empty_rate": 0.0,
+        "handoff_consistency": 1.0,
+        "token_f1_vs_actual": 0.1456421851813054,
+        "mean_chars": 160.875
+      },
+      "confusion": [
+        {
+          "gold": "playback_error",
+          "n": 43,
+          "correct": 10,
+          "top_confusions": [
+            [
+              "content_availability",
+              17
+            ],
+            [
+              "live_tv_channels",
+              11
+            ]
+          ]
+        },
+        {
+          "gold": "content_availability",
+          "n": 21,
+          "correct": 20,
+          "top_confusions": [
+            [
+              "praise_or_chatter",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "live_tv_channels",
+          "n": 7,
+          "correct": 5,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ]
+          ]
+        },
+        {
+          "gold": "billing_charge",
+          "n": 6,
+          "correct": 5,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "account_access",
+          "n": 6,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ],
+            [
+              "billing_charge",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "subscription_change",
+          "n": 3,
+          "correct": 1,
+          "top_confusions": [
+            [
+              "content_availability",
+              1
+            ],
+            [
+              "billing_charge",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "ads_complaint",
+          "n": 6,
+          "correct": 3,
+          "top_confusions": [
+            [
+              "content_availability",
+              3
+            ]
+          ]
+        },
+        {
+          "gold": "device_or_feature_feedback",
+          "n": 12,
+          "correct": 2,
+          "top_confusions": [
+            [
+              "content_availability",
+              9
+            ],
+            [
+              "live_tv_channels",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "unclear_request",
+          "n": 7,
+          "correct": 0,
+          "top_confusions": [
+            [
+              "content_availability",
+              5
+            ],
+            [
+              "billing_charge",
+              1
+            ]
+          ]
+        },
+        {
+          "gold": "praise_or_chatter",
+          "n": 9,
+          "correct": 7,
+          "top_confusions": [
+            [
+              "content_availability",
+              2
+            ]
+          ]
+        }
+      ],
+      "judge": {
+        "n": 120,
+        "mean_grounded": 1.9333333333333333,
+        "mean_helpful": 1.9833333333333334,
+        "mean_voice": 1.8166666666666667,
+        "mean_safe": 2.0,
+        "mean_total": 7.733333333333333,
+        "send_rate": 0.9833333333333333,
+        "send_rate_ci": [
+          0.9583333333333334,
+          1.0
+        ]
+      }
+    }
+  },
+  "_tests": {
+    "system_vs_simple_intent_acc_random_p": 0.04725,
+    "system_minus_simple_acc": 0.07500000000000001
+  }
+}
