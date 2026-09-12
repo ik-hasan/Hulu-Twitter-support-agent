@@ -1,0 +1,50 @@
+170	account_access	1	account_bound	password reset attempted 3 times, link never arrives
+171	playback_error	0	none	frequent Live TV buffering on 300mbps
+172	unclear_request	0	none	CORRUPT ROW - a Verizon agent's reply text merged with the customer's "I can not reboot right now"
+173	ads_complaint	0	none	polite question about ads restarting after a channel change; evaluating the service but no threat
+174	ads_complaint	1	churn_risk	"I hate all these commercials now... I'm gonna unsub"
+175	billing_charge	1	account_bound	charged an empty account, now $90 overdrawn
+176	playback_error	0	none	caption errors and truncation on a named title
+177	unclear_request	1	self_service_exhausted	"can you DM me" at turn 8 after a week of unanswered emails
+178	live_tv_channels	0	none	asks for an NFL RedZone style package
+179	billing_charge	1	account_bound	promised a free month during cancellation but was charged
+180	device_or_feature_feedback	0	none	new update hard to navigate, slow load times
+181	ads_complaint	1	self_service_exhausted	Vizio ad bug unfixed for 4 months, asking for a goodwill credit
+182	ads_complaint	0	none	one commercial overplayed
+183	playback_error	1	churn_risk	continued outages, "won't continue to pay $45 a month"
+184	ads_complaint	1	legal_or_regulatory	invokes the CALM Act on ad loudness
+185	unclear_request	0	none	"what do I pay $12 a month for if I'm getting this" - EVIDENCE IS ONLY IN THE IMAGE
+186	playback_error	1	churn_risk	just switched from Sling, ESPN broken, wavering on going back to cable
+187	device_or_feature_feedback	0	none	Roku redesign criticism plus missing recently-watched
+188	ads_complaint	0	none	understands the No-Commercials exclusions, weighing the $4
+189	content_availability	0	none	only one episode of a show available
+190	playback_error	1	churn_risk	app will not run on Roku TV, hashtag cancelingmembership
+191	praise_or_chatter	0	none	got it working, says thanks
+192	ads_complaint	1	account_bound	paid for No Commercials and still sees them
+193	playback_error	0	none	Samsung app crashes at ad breaks
+194	account_access	0	none	home-location prompt on a travelling streaming stick; policy explanation
+195	ads_complaint	1	vulnerable_or_safety	unskippable holiday ad they describe as triggering; will avoid the service to escape it
+196	account_access	1	account_bound	"too many videos playing" persists after a password change
+197	ads_complaint	1	account_bound	still sees ads after upgrading to the no-commercials Live TV plan
+198	playback_error	0	none	nothing plays after the interface change
+199	praise_or_chatter	0	none	thanks after the episode was restored
+200	account_access	1	account_bound	cannot reach support because support requires the sign-in that is broken
+201	ads_complaint	1	vulnerable_or_safety	adult recommendation/ad surfaced off a children's title; child-exposure risk
+202	subscription_change	1	churn_risk	stating they are cancelling, not worth the hassle
+203	billing_charge	1	account_bound	"why did my bill just double"
+204	playback_error	0	none	CBS carried in their area but not working on Roku
+205	content_availability	0	none	catalogue request for The Parkers
+206	playback_error	0	none	asks whether it is a general issue, gives their device
+207	device_or_feature_feedback	0	none	asks about a Windows tablet app
+208	device_or_feature_feedback	0	none	cannot find the update button
+209	subscription_change	1	churn_risk	wants to cancel, phone wait too long; row also contains a REAL NAME
+210	account_access	0	none	angry but the answer is the home-network policy
+211	account_access	1	account_bound	reset emails to both candidate addresses never arrive
+212	live_tv_channels	0	none	game not offered live although the network is carried
+213	device_or_feature_feedback	0	none	screen capture now blocked, plus a tacked-on content request
+214	playback_error	0	none	Fox episode endings truncated by ~10 seconds
+215	device_or_feature_feedback	0	none	self-fixed by restarting, leaves a concrete UX suggestion
+216	playback_error	0	none	watchlist vanished after the update, wrapped in UI criticism
+217	playback_error	0	none	resolution report that correctly identifies a specific ad as the crash cause
+218	praise_or_chatter	0	none	resolved it themselves, thanks
+219	praise_or_chatter	0	none	found the problem, thanks
